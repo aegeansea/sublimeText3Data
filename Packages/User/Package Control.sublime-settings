@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Align Arguments",
+		"Alignment",
+		"BracketHighlighter",
+		"BufferScroll",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"Emmet",
+		"Emmet Css Snippets",
+		"FileDiffs",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"Markdown Extended",
+		"MarkdownEditing",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"Predawn",
+		"Predawn Monokai",
+		"SideBarEnhancements",
+		"Terminal",
+		"Theme - Spacegray"
+	]
+}

@@ -1,0 +1,11 @@
+[
+	{ "keys":["ctrl+shift+c"], "command":"copy_path"},
+	{
+		"keys": ["ctrl+shift+t"],
+		"command": "open_terminal_project_folder"
+	},
+	{
+		"keys": ["ctrl+alt+t"],
+		"command": "open_terminal"
+	}
+]
