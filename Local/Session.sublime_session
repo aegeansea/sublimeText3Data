@@ -1,63 +1,19 @@
 {
 	"folder_history":
 	[
-		"/E/learn_node",
-		"//192.168.1.237/html/pass",
-		"/E/wamp/www/wzyyj_com",
-		"/Z/Cycle_Task_Project/Cycle_Task_Project/Cycle_Task",
-		"/E/wamp/www/pass/www",
-		"//192.168.1.237/html/pass/www",
-		"/E/github_clone/jQuery-File-Upload",
-		"//192.168.1.232/html/六度通行证产品前台",
-		"//192.168.1.232/html/六度通行证产品后台",
-		"/F/feike1",
-		"/F/feike_l2i",
-		"/C/Users/jhkf003/Desktop/cs_kf.git",
-		"/F/feike_feike定制",
-		"/Y/feike_feike定制",
-		"/Y/feike1",
-		"/F/feike",
-		"/E/wamp/www/kf",
-		"/Z/imgdl/src-workspace/src",
-		"/Y/master/code",
-		"/Z/cs_kf.git/client",
-		"/Z/src",
-		"/Z/grunt-chat",
-		"/Y/master",
-		"/Z/imgdl",
-		"/E/blog",
-		"/E/doc",
-		"/Y/tiandao",
-		"/Y/feike",
-		"/E/tag3-2-0",
-		"/E/fksc",
-		"/E/E-feike",
-		"/Y/tiandao/code",
-		"/Y/feike/code",
-		"/E/feike/code",
-		"/X/feike/code",
-		"/E/greate-chat",
-		"/Z/tag3-2-0",
-		"/Z/greate-chat",
-		"/Z/eeeet.com",
-		"//192.168.1.237/html/53cloud/server",
-		"/Z/TB/文件夹同步 - 115",
-		"/Z/TB/文件夹同步 - 360",
-		"//192.168.1.249/web/walden",
-		"/C/Users/jhkf003/Desktop/新建文件夹/thinkphp_3.2.3_full/ThinkPHP",
-		"/Z/classify/ThinkPHP",
-		"/C/Users/jhkf003/Desktop/新建文件夹/thinkphp_3.2.3_full",
-		"/Z/imgdl/KF_Task",
-		"//192.168.1.232/html/bu",
-		"//192.168.1.232/html/53cloud",
-		"//192.168.1.249/web/showdoc"
+		"/E/learn_node/gulp-l",
+		"/E/learn_node/lglup",
+		"/E/learn_node/glup",
+		"/F/53cloud",
+		"/Z/blog/source/_posts",
+		"/E"
 	],
 	"last_version": 3114,
-	"last_window_id": 35,
+	"last_window_id": 48,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 532.0,
+		"new_window_height": 565.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -65,1909 +21,88 @@
 				"selected_items":
 				[
 					[
-						"clos",
-						"border-collapse"
-					],
-					[
-						"age",
-						"age_min"
-					],
-					[
-						"ag",
-						"age_min"
-					],
-					[
-						"htm",
-						"htmlspecialchars_decode"
-					],
-					[
-						"mstype",
-						"messageType"
-					],
-					[
-						"is",
-						"is_array"
-					],
-					[
-						"bacc",
-						"background-color"
-					],
-					[
-						"sex",
-						"sex_str_all_check"
-					],
-					[
-						"ov",
-						"overflow"
-					],
-					[
-						"type",
-						"typeArr"
-					],
-					[
-						"iss",
-						"isset"
-					],
-					[
-						"user",
-						"user_id"
-					],
-					[
-						"o",
-						"obj"
-					],
-					[
-						"pa",
-						"pay_bank"
-					],
-					[
-						"ip",
-						"ipTimes"
-					],
-					[
-						"sms",
-						"smsCode"
-					],
-					[
-						"log",
-						"loginSmsCodeCheck"
-					],
-					[
-						"aja",
-						"ajaxRetrun"
-					],
-					[
-						"md5",
-						"md5UserName"
-					],
-					[
-						"remo",
-						"removeClass"
-					],
-					[
-						"obj",
-						"objYzmSend"
-					],
-					[
-						"coupb",
-						"couponsBalance"
-					],
-					[
-						"si",
-						"sixIdArr"
-					],
-					[
-						"class",
-						"className"
-					],
-					[
-						"for",
-						"for	for (…) {…}"
-					],
-					[
-						"pric",
-						"priceCouponsMax"
-					],
-					[
-						"cou",
-						"couponsBalanceOrigin"
-					],
-					[
-						"coup",
-						"priceCouponsMax"
-					],
-					[
-						"nor",
-						"norateBalance"
-					],
-					[
-						"coupons",
-						"couponsBalance"
-					],
-					[
-						"char",
-						"charge_type"
-					],
-					[
-						"oper",
-						"operates"
-					],
-					[
-						"F_",
-						"F_dump"
-					],
-					[
-						"C",
-						"CONTROLLER_NAME"
-					],
-					[
-						"db",
-						"dbData"
-					],
-					[
-						"unw",
-						"unwithBalance"
-					],
-					[
-						"sess",
-						"sessionArr"
-					],
-					[
-						"operat",
-						"operate_id"
-					],
-					[
-						"produc",
-						"product_id"
-					],
-					[
-						"new",
-						"newData"
-					],
-					[
-						"val",
-						"value"
-					],
-					[
-						"arr",
-						"arrKey"
-					],
-					[
-						"ne",
-						"newData"
-					],
-					[
-						"un",
-						"unwithdraw_balance"
-					],
-					[
-						"with",
-						"withdraw_money"
-					],
-					[
-						"cloud_company",
-						"cloud_company_account"
-					],
-					[
-						"cloud",
-						"cloud_company_id"
-					],
-					[
-						"flo",
-						"floatgtr"
-					],
-					[
-						"应用",
-						"应用列表"
-					],
-					[
-						"ctrl",
-						"ctrlArr"
-					],
-					[
-						"nod",
-						"nodeIdArr"
-					],
-					[
-						"action",
-						"actionIdsArr"
-					],
-					[
-						"k",
-						"keyActionArr"
-					],
-					[
-						"key",
-						"keyAction"
-					],
-					[
-						"op",
-						"open"
-					],
-					[
-						"no",
-						"nodeVal"
-					],
-					[
-						"is_a",
-						"is_array"
-					],
-					[
-						"mn",
-						"mna_val"
-					],
-					[
-						"modu",
-						"moduleNodeArr"
-					],
-					[
-						"array_m",
-						"array_merge"
-					],
-					[
-						"le",
-						"level"
-					],
-					[
-						"addors",
-						"addOrSetModuleExpTimeRet"
-					],
-					[
-						"produ",
-						"product_id"
-					],
-					[
-						"addappbill",
-						"addAppAndBillData"
-					],
-					[
-						"real",
-						"realMoney"
-					],
-					[
-						"prod",
-						"productName"
-					],
-					[
-						"pro",
-						"Product"
-					],
-					[
-						"app",
-						"appExpTime"
-					],
-					[
-						"firs",
-						"firstopenId"
-					],
-					[
-						"mf",
-						"mf_a_val"
-					],
-					[
-						"calcAPP",
-						"calcAppMoneyRet"
-					],
-					[
-						"price",
-						"priceDiscount"
-					],
-					[
-						"month",
-						"monthDays"
-					],
-					[
-						"max",
-						"maxDays"
-					],
-					[
-						"cha",
-						"chargeType"
-					],
-					[
-						"mod",
-						"moduleScriptData"
-					],
-					[
-						"wi",
-						"with_balance_max"
-					],
-					[
-						"data",
-						"dataDetailbill"
-					],
-					[
-						"ph",
-						"photo_dialog"
-					],
-					[
-						"F",
-						"F_log"
-					],
-					[
-						"ext",
-						"extend"
-					],
-					[
-						"wity",
-						"withType"
-					],
-					[
-						"u",
-						"userAccountData"
-					],
-					[
-						"us",
-						"UserData"
-					],
-					[
-						"use",
-						"user_id"
-					],
-					[
-						"tab",
-						"table_summary"
-					],
-					[
-						"pr",
-						"productUrlInfo"
-					],
-					[
-						"pre",
-						"pre_url"
-					],
-					[
-						"url",
-						"urls"
-					],
-					[
-						"img",
-						"imgUrl"
-					],
-					[
-						"produU",
-						"AppProductUrl"
-					],
-					[
-						"discou",
-						"AppDiscount"
-					],
-					[
-						"lis",
-						"listArr"
-					],
-					[
-						"succ",
-						"succCall"
-					],
-					[
-						"hide",
-						"hide-input"
-					],
-					[
-						"ca",
-						"categoryArr"
-					],
-					[
-						"s",
-						"slists"
-					],
-					[
-						"json",
-						"json_encode"
-					],
-					[
-						"ed",
-						"edtMode"
-					],
-					[
-						"arrmer",
-						"array_merge"
-					],
-					[
-						"inp",
-						"inputclear"
-					],
-					[
-						"end",
-						"endData"
-					],
-					[
-						"pl",
-						"placeArr"
+						"work",
+						"workerData"
 					],
 					[
 						"exp",
-						"explode"
-					],
-					[
-						"mar",
-						"margin-top"
-					],
-					[
-						"m",
-						"moduleConfig"
-					],
-					[
-						"unse",
-						"unset"
-					],
-					[
-						"acc",
-						"accessList"
-					],
-					[
-						"preg",
-						"preg_replace"
-					],
-					[
-						"pri",
-						"prefix"
-					],
-					[
-						"auth",
-						"authRes"
-					],
-					[
-						"rol",
-						"roleInfo"
-					],
-					[
-						"role",
-						"role_name"
-					],
-					[
-						"ro",
-						"roleNodes"
-					],
-					[
-						"node",
-						"node_id"
-					],
-					[
-						"che",
-						"checkall"
-					],
-					[
-						"va",
-						"valCS"
-					],
-					[
-						"lev",
-						"level2NodeId"
-					],
-					[
-						"ids",
-						"idsArr"
-					],
-					[
-						"di",
-						"disabled	Attr"
-					],
-					[
-						"ajax",
-						"ajax_form"
-					],
-					[
-						"is_",
-						"is_array"
-					],
-					[
-						"array",
-						"array"
-					],
-					[
-						"true",
-						"trueType"
-					],
-					[
-						"opt",
-						"optionsAjax"
-					],
-					[
-						"aj",
-						"ajaxDialog"
-					],
-					[
-						"con",
-						"controller"
-					],
-					[
-						"acti",
-						"action_en"
-					]
-				]
-			},
-			"build_system_choices":
-			[
-			],
-			"build_varint": "",
-			"command_palette":
-			{
-				"height": 263.0,
-				"last_filter": "sshtm",
-				"selected_items":
-				[
-					[
-						"sshtm",
-						"Set Syntax: HTML"
-					],
-					[
-						"ssjs",
-						"Set Syntax: JavaScript"
-					],
-					[
-						"ssphp",
-						"Set Syntax: PHP"
-					],
-					[
-						"Package Control: ",
-						"Package Control: Disable Package"
-					],
-					[
-						"ins",
-						"Package Control: Install Package"
-					],
-					[
-						"pkcremp",
-						"Package Control: Remove Package"
-					],
-					[
-						"insp",
-						"Package Control: Install Package"
-					],
-					[
-						"package",
-						"Package Control: Remove Package"
-					],
-					[
-						"ftp",
-						"FTPSync: Browse"
-					],
-					[
-						"i",
-						"Package Control: Install Package"
-					],
-					[
-						"for",
-						"Format Arguments"
-					],
-					[
-						"keys",
-						"Preferences: Key Bindings - User"
-					],
-					[
-						"forma",
-						"Format Arguments"
-					],
-					[
-						"pc",
-						"Package Control: Remove Package"
-					],
-					[
-						"alig",
-						"Preferences: Alignment File Settings – User"
+						"expDay"
 					],
 					[
 						"user",
-						"Preferences: Key Bindings - User"
+						"userAndWorkerInfoData"
 					],
 					[
-						"pcl",
-						"Package Control: List Packages"
+						"us",
+						"userId"
 					],
 					[
-						"pci",
-						"Package Control: Install Package"
+						"mg",
+						"memberGrade"
 					],
 					[
-						"pcr",
-						"Package Control: Remove Package"
+						"mem",
+						"member_grade"
 					],
 					[
-						"new F",
-						"File: New Folder Relative to Project Root"
+						"company",
+						"companyAccountData"
 					],
 					[
-						"install",
-						"Package Control: Install Package"
+						"cou",
+						"couponsData"
 					],
 					[
-						"ssmd",
-						"Set Syntax: Markdown"
+						"com",
+						"companyData"
 					],
 					[
-						"ssjas",
-						"Set Syntax: JavaScript"
+						"pric",
+						"priceMoneyMax"
 					],
 					[
-						"sshtml",
-						"Set Syntax: HTML"
-					],
-					[
-						"ssu",
-						"Preferences: Settings - User"
-					],
-					[
-						"install package",
-						"Package Control: Install Package"
-					],
-					[
-						"sscss",
-						"Set Syntax: CSS"
-					],
-					[
-						"key",
-						"Preferences: Key Bindings - Default"
-					],
-					[
-						"keybu",
-						"Preferences: Key Bindings - User"
-					],
-					[
-						"set user",
-						"Preferences: Settings - User"
-					],
-					[
-						"php",
-						"Set Syntax: PHP"
-					],
-					[
-						"settings",
-						"Preferences: Settings - User"
-					],
-					[
-						"html",
-						"Set Syntax: HTML"
-					],
-					[
-						"map",
-						"View: Toggle Minimap"
-					],
-					[
-						"re",
-						"Indentation: Reindent Lines"
-					],
-					[
-						"css",
-						"Set Syntax: CSS"
-					],
-					[
-						"sideba",
-						"View: Toggle Side Bar"
-					]
-				],
-				"width": 536.0
-			},
-			"console":
-			{
-				"height": 174.0,
-				"history":
-				[
-					"clean",
-					"cls",
-					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/Z/a.txt",
-				"/Z/adsf.bin",
-				"/Z/53kf.xml",
-				"/C/Users/jhkf003/Desktop/bookmarks-2016-06-14.json",
-				"/Z/imgdl/SwitchHosts/README.txt",
-				"//192.168.1.237/html/pass/cli.php",
-				"/E/wamp/bin/apache/apache2.4.9/conf/extra/httpd-vhosts.conf",
-				"/E/wamp/www/think/Application/Home/Controller/IndexController.class.php",
-				"/E/wamp/bin/apache/apache2.4.9/conf/httpd.conf",
-				"/F/BaiduYunDownload/2015-03-02电脑备份/xpE盘/数据备份/D盘文件夹/徐盼工作/全部/新建文件夹/w/新建 文本文档 (4).txt",
-				"/F/BaiduYunDownload/2015-03-02电脑备份/xpE盘/数据备份/D盘文件夹/徐盼工作/全部/新建文件夹/新建 文本文档 (3).txt",
-				"/F/BaiduYunDownload/2015-03-02电脑备份/xpE盘/数据备份/D盘文件夹/徐盼工作/全部/新建文件夹/新建 文本文档 (4).txt",
-				"/F/BaiduYunDownload/2015-03-02电脑备份/xpE盘/数据备份/D盘文件夹/徐盼工作/全部/新建文件夹/新建 文本文档 (5).txt",
-				"/F/BaiduYunDownload/2015-03-02电脑备份/xpE盘/数据备份/D盘文件夹/徐盼工作/全部/新建文件夹/新建 文本文档 (7).txt",
-				"/F/BaiduYunDownload/2015-03-02电脑备份/xpE盘/数据备份/D盘文件夹/徐盼工作/全部/新建文件夹/新建 文本文档 (6).txt",
-				"/F/BaiduYunDownload/2015-03-02电脑备份/xpE盘/数据备份/D盘文件夹/徐盼工作/全部/新建文件夹/论坛.txt",
-				"/F/BaiduYunDownload/2015-03-02电脑备份/xpE盘/数据备份/D盘文件夹/徐盼工作/全部/新建文件夹/新建 文本文档 (2).txt",
-				"/F/BaiduYunDownload/2015-03-02电脑备份/xpE盘/数据备份/D盘文件夹/徐盼工作/全部/新建文件夹/新建 文本文档.txt",
-				"/F/BaiduYunDownload/2015-03-02电脑备份/xpE盘/数据备份/D盘文件夹/徐盼工作/全部/网址.txt",
-				"/F/BaiduYunDownload/2015-03-02电脑备份/xpc盘/下载/fookie-0.2-min.js.txt",
-				"/F/BaiduYunDownload/2015-03-02电脑备份/xpc盘/下载/forget_pwd_record.log",
-				"/F/BaiduYunDownload/2015-03-02电脑备份/XPd盘/sn.txt",
-				"//192.168.1.237/html/pass/www/Public/Admin/js/public_fun.js",
-				"//192.168.1.237/html/pass/www/Template/Admin/App/js.html",
-				"//192.168.1.237/html/pass/www/Template/Admin/App/view.html",
-				"//192.168.1.237/html/pass/www/Template/Admin/Public/head.html",
-				"//192.168.1.237/html/pass/www/Application/Admin/Conf/config.php",
-				"//192.168.1.237/html/pass/www/Application/Admin/Controller/IndexController.class.php",
-				"//192.168.1.237/html/pass/server/KF_Task/thread/MessagesQueueThread.php",
-				"//192.168.1.237/html/pass/www/Application/Task/Controller/MessagesQueueController.class.php",
-				"//192.168.1.237/html/pass/server/KF_Task/config/thread.ini",
-				"//192.168.1.237/html/pass/www/Application/Task/Controller/AutoRenewController.class.php",
-				"//192.168.1.237/html/pass/www/Application/Common/Common/function.php",
-				"//192.168.1.237/html/pass/www/Application/Admin/Common/function.php",
-				"//192.168.1.237/html/pass/www/Template/Admin/Gift/search.html",
-				"//192.168.1.237/html/pass/www/Template/Admin/Withdraw/search.html",
-				"//192.168.1.237/html/pass/www/Template/Admin/Auth/search.html",
-				"//192.168.1.237/html/pass/www/Template/Admin/Coupon/search.html",
-				"//192.168.1.237/html/pass/www/Template/Admin/Recharge/search.html",
-				"//192.168.1.237/html/pass/www/Application/Common/Logic/UserAccountLogic.class.php",
-				"//192.168.1.237/html/pass/www/Application/Common/Combine/UserCombine.class.php",
-				"//192.168.1.237/html/pass/www/Application/Common/Logic/UserAuthLogic.class.php",
-				"//192.168.1.237/html/pass/server/KF_Task/thread/OpenModuleThread.php",
-				"//192.168.1.237/html/pass/www/Application/Task/Controller/OpenModuleController.class.php",
-				"/Z/pass/server/KF_Task/config/thread.ini",
-				"//192.168.1.237/html/pass/www/Application/Admin/Common/Common.class.php",
-				"//192.168.1.237/html/pass/www/Template/Admin/Index/js.html",
-				"//192.168.1.237/html/pass/www/Template/Admin/AdminPwd/indexA.html",
-				"//192.168.1.237/html/pass/www/Template/Admin/AdminPwd/js.html",
-				"//192.168.1.237/html/pass/www/Template/Admin/Public/top.html",
-				"//192.168.1.237/html/pass/www/Application/Common/Conf/config.php",
-				"//192.168.1.237/html/pass/www/Template/Admin/Public/index.html",
-				"//192.168.1.237/html/pass/www/Template/Admin/UserInfo/index.html",
-				"//192.168.1.237/html/pass/www/Application/Admin/Controller/MsgController.class.php",
-				"//192.168.1.237/html/pass/www/Template/Admin/Msg/indexA.html",
-				"//192.168.1.237/html/pass/www/Template/Admin/Msg/js.html",
-				"//192.168.1.237/html/pass/www/Template/Admin/Msg/add.html",
-				"//192.168.1.237/html/pass/document/通知模板定义变量.txt",
-				"//192.168.1.237/html/pass/www/Public/js/u_pass_editor/umeditor.config.js",
-				"//192.168.1.237/html/pass/www/Template/Admin/Msg/shw.html",
-				"//192.168.1.237/html/pass/www/Template/Admin/Auth/shw.html",
-				"//192.168.1.237/html/pass/www/Template/Admin/Msg/search.html",
-				"//192.168.1.237/html/pass/www/Application/Common/Model/MessageQueueModel.class.php",
-				"/E/六度通行证产品后台/消息管理.html",
-				"//192.168.1.237/html/pass/www/Public/Admin/css/css.css",
-				"//192.168.1.237/html/pass/www/Template/Admin/Public/selectDate.html",
-				"//192.168.1.237/html/pass/www/Template/Admin/Msg/index.html",
-				"//192.168.1.237/html/pass/www/Application/Admin/Controller/AppController.class.php",
-				"/E/wamp/www/wzyyj_com/phpcms/templates/default/config.php",
-				"/Z/wzyyj_com_2016061011/phpcms/templates/default/config.php",
-				"/E/wamp/www/wzyyj_com/statics/images/zt_m3/common.css",
-				"/E/wamp/www/wzyyj_com/statics/images/zt_m3/style.css",
-				"/E/wamp/www/wzyyj_com/phpcms/templates/default/special/show5.html",
-				"/E/wamp/www/wzyyj_com/phpcms/templates/default/special/list5.html",
-				"/E/wamp/www/wzyyj_com/phpcms/templates/default/special/index5.html",
-				"/E/wamp/www/wzyyj_com/phpcms/modules/special/index.php",
-				"/E/wamp/www/wzyyj_com/phpcms/libs/functions/global.func.php",
-				"/E/wamp/www/wzyyj_com/statics/images/zt_m3/common1.css",
-				"/E/wamp/www/wzyyj_com/statics/images/zt_m3/style1.css",
-				"/Z/wzyyj_com_2016061011/statics/images/zt_m3/style.css",
-				"//192.168.1.237/html/pass/www/Public/js/u_pass_editor/index.html",
-				"//192.168.1.237/html/pass/www/Application/Admin/Controller/UserController.class.php",
-				"//192.168.1.237/html/pass/www/Application/pass_log/16_06_12.log",
-				"//192.168.1.237/html/pass/www/Application/Admin/Controller/AuthController.class.php",
-				"//192.168.1.237/html/pass/www/Template/Admin/Withdraw/js.html",
-				"//192.168.1.237/html/pass/www/Template/Admin/Auth/js.html",
-				"/Z/u_pass_editor/index.html",
-				"//192.168.1.237/html/pass/www/Template/Admin/Public/selectCity.html",
-				"//192.168.1.237/html/pass/www/Public/js/u_pass_editor/php/Uploader.class.php",
-				"//192.168.1.237/html/pass/www/Public/js/u_pass_editor/umeditor.js",
-				"//192.168.1.237/html/pass/www/Public/js/u_pass_editor/php/imageUp.php",
-				"//192.168.1.237/html/pass/www/Application/Admin/Controller/RechargeController.class.php",
-				"//192.168.1.237/html/pass/www/Public/js/u_pass_editor/ueditor.config.js",
-				"/E/wamp/www/wzyyj_com/statics/images/zt_m3/index.vsb.css",
-				"/Z/ueditor1_4_3_3-utf8-php/utf8-php/index.html",
-				"/Z/ueditor1_4_3_3-utf8-php/utf8-php/ueditor.config.js",
-				"//192.168.1.237/html/pass/www/Template/Admin/Msg/button.html",
-				"//192.168.1.237/html/pass/www/Application/Common/Logic/AdminUserLogic.class.php",
-				"//192.168.1.237/html/pass/www/Application/Common/Combine/AdminUserCombine.class.php",
-				"//192.168.1.237/html/pass/www/Template/Admin/AdminUser/crg.html",
-				"//192.168.1.237/html/pass/www/Template/Admin/AdminUser/js.html",
-				"//192.168.1.237/html/pass/www/Application/Admin/Controller/AdminUserController.class.php",
-				"//192.168.1.237/html/pass/www/Application/Admin/Controller/FundDoController.class.php",
-				"//192.168.1.237/html/pass/www/Application/Admin/Controller/GiftDoController.class.php",
-				"//192.168.1.237/html/pass/www/Application/Admin/Controller/CouponDoController.class.php",
-				"//192.168.1.237/html/pass/www/Application/Common/Model/DetailAdminModel.class.php",
-				"//192.168.1.237/html/pass/www/Template/Admin/AdminUser/indexA.html",
-				"//192.168.1.237/html/pass/www/Template/Home/Assets/recharge.html",
-				"//192.168.1.237/html/pass/www/Template/Admin/CouponDo/index.html",
-				"//192.168.1.237/html/pass/www/Template/Admin/AdminUser/index.html",
-				"/E/wamp/www/wzyyj_com/phpcms/templates/default/special/show4.html",
-				"/C/Users/jhkf003/Desktop/专题网页/“两学一做”专题教育网.htm",
-				"/E/wamp/www/wzyyj_com/caches/caches_template/default/special/show5.php",
-				"/E/wamp/www/wzyyj_com/phpcms/templates/default/special/list4.html",
-				"/E/wamp/www/wzyyj_com/phpcms/templates/default/special/index3.html",
-				"/E/wamp/www/wzyyj_com/caches/caches_template/default/special/list4.php",
-				"/E/wamp/www/wzyyj_com/phpcms/templates/default/special/index4.html",
-				"/E/wamp/www/wzyyj_com/caches/caches_template/default/special/list5.php",
-				"/E/wamp/www/wzyyj_com/statics/css/yjj/common.css",
-				"/E/wamp/www/wzyyj_com/statics/images/zt_m3/imagechangenews.css",
-				"//192.168.1.237/html/pass/www/Application/pass_log/16_06_08.log",
-				"//192.168.1.237/html/pass/www/ThinkPHP/Library/Org/Util/Rbac.class.php",
-				"//192.168.1.237/html/pass/www/Application/Admin/Controller/AdminPwdController.class.php",
-				"//192.168.1.237/html/pass/www/Application/Common/Model/AdminUserModel.class.php",
-				"//192.168.1.237/html/pass/www/Template/Admin/Index/index.html",
-				"//192.168.1.237/html/pass/www/Template/Admin/AdminUser/edt.html",
-				"//192.168.1.237/html/pass/www/Template/Admin/UserInfo/js.html",
-				"//192.168.1.237/html/pass/www/Template/Admin/FundDo/index.html"
-			],
-			"find":
-			{
-				"height": 38.0
-			},
-			"find_in_files":
-			{
-				"height": 102.0,
-				"where_history":
-				[
-					"\\\\192.168.1.237\\html\\pass\\www\\Application",
-					"E:\\wamp\\www\\wzyyj_com",
-					"\\\\192.168.1.237\\html\\pass\\www\\Template\\Admin",
-					"E:\\wamp\\www\\wzyyj_com",
-					"\\\\192.168.1.237\\html\\pass\\www\\Application\\Admin",
-					"\\\\192.168.1.237\\html\\pass\\www\\Template\\Admin",
-					"\\\\192.168.1.237\\html\\pass\\www\\Application",
-					"Z:\\Cycle_Task_Project\\Cycle_Task_Project\\Cycle_Task",
-					"\\\\192.168.1.237\\html\\pass\\www\\Template\\Admin",
-					"E:\\wamp\\www\\pass\\www\\Application\\Common\\Model",
-					"\\\\192.168.1.237\\html\\pass\\www",
-					"E:\\github_clone\\jQuery-File-Upload",
-					"F:\\feike1\\code\\Public\\Js\\chat-mobile\\src",
-					"Y:\\feike\\",
-					"Y:\\feike\\code\\,*.html",
-					"Y:\\feike\\code\\,*.php",
-					"Y:\\feike\\code\\explorer,*.php",
-					"Y:\\feike,*.js,*.html,*.css",
-					"Y:\\feike,*.js,*.html",
-					"E:\\doc",
-					"Y:\\feike\\code,*.css",
-					"Y:\\feike\\code,*.php",
-					"Y:\\feike\\code,*.js,*.php",
-					"Y:\\feike\\code,*.js",
-					"Y:\\feike\\code,*.php",
-					"Y:\\feike\\code,*.js,*.json,*.html",
-					"Y:\\feike\\code,*.php",
-					"Y:\\feike\\code,*.js,*.html",
-					"Y:\\feike\\code,*.php",
-					"Y:\\feike\\code",
-					"Y:\\feike\\code,*.php",
-					"Y:\\feike\\code",
-					"Y:\\feike\\code\\Public\\Js\\workspace",
-					"Y:\\feike\\code\\,*.html",
-					"Y:\\feike\\code\\",
-					"Y:\\feike\\code\\,*.html",
-					"Y:\\feike\\code\\Application\\Workspace\\View\\Index",
-					"Z:\\tag3-2-0\\talk\\www\\",
-					"Z:\\tag3-2-0\\talk\\www\\new\\Client\\Tpl",
-					"Z:\\tag3-2-0\\talk\\www\\",
-					"Z:\\eeeet.com\\",
-					"C:\\文件夹同步",
-					"\\\\192.168.1.249\\www\\t2\\ThinkPHP",
-					"Z:\\thinkphp_3.2.3_full",
-					"E:\\wamp\\www\\wzyyj_com",
-					"E:\\wamp\\www\\wzyyj_com\\zf",
-					"C:\\文件夹同步",
-					"E:\\wamp\\www\\kf\\tpl\\",
-					"E:\\wamp\\www\\wzyyj_com\\",
-					"E:\\wamp\\www\\wzyyj_com\\zf\\",
-					"E:\\wamp\\www\\wzyyj_com\\",
-					"Z:\\classify\\",
-					"\\\\192.168.1.232\\html\\53cloud"
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": true,
-				"find_history":
-				[
-					"kf",
-					"index",
-					"z_index",
-					"z-index",
-					"AutoRenew",
-					"UserAuth','Logic",
-					"A_IN_COUPONS",
-					"优惠券充值：",
-					"\n        ",
-					"account",
-					"account_html",
-					"accounts",
-					"age_min",
-					"ageMin",
-					"age_max",
-					"ageMin",
-					"data['age_min']",
-					"this->",
-					",",
-					"operate",
-					"messageType",
-					"message",
-					"Wdate",
-					"volist",
-					",0",
-					"sexStr",
-					"sex_str",
-					"478",
-					"ºÚÌå",
-					"function thumb",
-					".container .footer",
-					"1",
-					".container .nr .nr_wz {",
-					".container .nr .list {",
-					"f49780",
-					"window.location.href",
-					"ajaxFormDialog",
-					"optionsValid",
-					"float",
-					"'青海',",
-					">",
-					"sex_str",
-					"年龄",
-					"id=\"textfield\"",
-					"你",
-					"下限",
-					"getContentTxt",
-					"字符",
-					"length",
-					"长度",
-					"deleteEditor",
-					"__/",
-					"yaowen",
-					"f49254",
-					"img",
-					" boxHeight=\"42\"",
-					"volist",
-					"edt",
-					"userAccountAffect",
-					"detailCouponsAffect",
-					"dataDetailCoupons",
-					"dataUserAccount",
-					"space.gif",
-					"space.g",
-					"五",
-					"index4.html",
-					".container .nr .nr_nr",
-					"#fff",
-					"0.1em",
-					"headStyle303gsax2fs",
-					"77",
-					"上级精神",
-					"title",
-					"78",
-					"更多",
-					"76",
-					"f49254",
-					"“两学一做”专题教育网_files",
-					"imagechangenews_pnode",
-					"blendTrans",
-					"user_id",
-					"admin_id",
-					"true",
-					"Validform_label",
-					"ajaxFormLogin",
-					"input",
-					"ajaxDialog",
-					"ajaxDialogL2",
-					"USER_AUTH_GATEWAY",
-					"Index",
-					"status",
-					"newphone",
-					"3600",
-					"'用户:'",
-					"ip:",
-					"ip",
-					"'IP:'",
-					"md5($ip.$loginTail)",
-					"md5($userName.$loginTail)",
-					"'_login_fail'",
-					"times",
-					"countdown_number",
-					"user_name",
-					"F_dump",
-					",o,cssctl",
-					"function(msg,o,cssctl",
-					"function(msg,o,cssctl){",
-					"box-login",
-					"H_isbusy_user",
-					"class",
-					"function",
-					"render",
-					"F_dump",
-					"is_round",
-					"F_floatc",
-					"Exp",
-					"calcAppMaxDays",
-					"calcAppMoney",
-					"priceCouponsDiscount",
-					"');",
-					",",
-					"',",
-					"添加",
-					"删除",
-					"添加",
-					"ids",
-					"\">/",
-					"添加"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-					"77",
-					"{IMG_PATH}zt_m3",
-					"exp_time",
-					"__PUBLIC_M__/images/",
-					"'ctrl'",
-					"",
-					"191f60",
-					"__PUBLIC_M__/images/",
-					"__PUBLIC_M__/images",
-					"\\",
-					"账号",
-					"__PUBLIC_M__",
-					"pass_",
-					"\\",
-					"f:\\feike1\\code",
-					"\\",
-					"f:\\feike1\\code",
-					"",
-					"getVerticalTable",
-					"\\",
-					"f:\\feike1\\code",
-					"",
-					"\\",
-					"f:\\feike1\\c",
-					"\\",
-					"f:\\feike1\\code",
-					"\\",
-					"f:\\feike1\\code",
-					"\\",
-					"f:\\feike1\\code",
-					"",
-					"f:\\feike1\\code\\",
-					"\\",
-					"f:\\feike1\\code\\",
-					"\\",
-					"f:\\feike1\\",
-					"\\",
-					"f:\\feike1\\",
-					"2shen7",
-					"Y:\\feike\\",
-					"\\",
-					"Y:\\code\\",
-					"",
-					"\\",
-					"",
-					"I('title', '', 'trim,htmlspecialchars');",
-					"origin",
-					"guestLink2Img.showChatMsgImg",
-					"",
-					"\\",
-					"link2Img",
-					"git update-index --no-assume-unchanged",
-					"interfaceId",
-					"doubleRows",
-					"jsonData",
-					"role=",
-					"interface",
-					"Interface",
-					"接口",
-					"interface",
-					"Interface",
-					"interface",
-					"Interface",
-					"interface_",
-					"接口",
-					"$interface",
-					"D('Interface')",
-					"接口",
-					"D('Interface')",
-					"html",
-					"",
-					"127.0.0.1",
-					"249",
-					"53kf",
-					"fk",
-					"",
-					"用户",
-					"等级",
-					"升等级",
-					"资金充值",
-					"transfer",
-					"",
-					"/",
-					".",
-					"么",
-					"。",
-					"",
-					"！",
-					"后",
-					"：",
-					"，",
-					"。",
-					"，",
-					"：",
-					"。",
-					"",
-					"bu",
-					"not_time",
-					"",
-					"`bu_not_worktime`",
-					"\"",
-					"csdn.net",
-					"53kf",
-					"",
-					"qq",
-					"http://www.52pojie.cn/",
-					"http://www.imooc.com/",
-					"http://www.189.cn",
-					"www.189.cn",
-					"google",
-					"",
-					"catid=\"288\"",
-					"<div class=\"more7\"><div class=\"bgs_title fl\">动态信息</div>",
-					"bgs_title_bg.jpg",
-					"catid=\"288\"",
-					"10",
-					"class=\"pic-img\"",
-					"<?php echo IMG_PATH;?>20151218",
-					"<?php echo IMG_PATH;?>",
-					"<?php echo JS_PATH;?>20151218"
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"incremental_find":
-			{
-				"height": 23.0
-			},
-			"input":
-			{
-				"height": 38.0
-			},
-			"menu_visible": true,
-			"output.find_results":
-			{
-				"height": 128.0
-			},
-			"output.unsaved_changes":
-			{
-				"height": 142.0
-			},
-			"pinned_build_system": "",
-			"replace":
-			{
-				"height": 72.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"app/vi",
-						"www\\Template\\Admin\\App\\view.html"
-					],
-					[
-						"publ",
-						"www\\Public\\Admin\\js\\public_fun.js"
-					],
-					[
-						"public",
-						"www\\Public\\Admin\\js\\public_fun.js"
-					],
-					[
-						"func",
-						"www\\Application\\Common\\Common\\function.php"
-					],
-					[
-						"useraccount",
-						"www\\Application\\Common\\Logic\\UserAccountLogic.class.php"
-					],
-					[
-						"config",
-						"www\\Application\\Admin\\Conf\\config.php"
-					],
-					[
-						"comm",
-						"www\\Application\\Admin\\Common\\Common.class.php"
-					],
-					[
-						"confi.js",
-						"www\\Public\\js\\u_pass_editor\\umeditor.config.js"
-					],
-					[
-						"publi",
-						"www\\Public\\Admin\\js\\public_fun.js"
-					],
-					[
-						"date",
-						"www\\Template\\Admin\\Public\\selectDate.html"
-					],
-					[
-						"css.cs",
-						"www\\Public\\Admin\\css\\css.css"
-					],
-					[
-						"seledat",
-						"www\\Template\\Admin\\Public\\selectDate.html"
-					],
-					[
-						"msg/ind",
-						"www\\Template\\Admin\\Msg\\index.html"
-					],
-					[
-						"msg",
-						"www\\Application\\Admin\\Controller\\MsgController.class.php"
-					],
-					[
-						"appcon",
-						"www\\Application\\Admin\\Controller\\AppController.class.php"
-					],
-					[
-						"show5",
-						"phpcms\\templates\\default\\special\\show5.html"
-					],
-					[
-						"list5",
-						"phpcms\\templates\\default\\special\\list5.html"
-					],
-					[
-						"list5.html",
-						"phpcms\\templates\\default\\special\\list5.html"
-					],
-					[
-						"index5",
-						"phpcms\\templates\\default\\special\\index5.html"
-					],
-					[
-						"m3/sty",
-						"statics\\images\\zt_m3\\style.css"
-					],
-					[
-						"m3/com",
-						"statics\\images\\zt_m3\\common.css"
-					],
-					[
-						"usercont",
-						"www\\Application\\Admin\\Controller\\UserController.class.php"
-					],
-					[
-						"css.css",
-						"www\\Public\\Admin\\css\\css.css"
-					],
-					[
-						"auth",
-						"www\\Application\\Common\\Logic\\UserAuthLogic.class.php"
-					],
-					[
-						"pub",
-						"www\\Public\\Admin\\js\\public_fun.js"
-					],
-					[
-						"selecci",
-						"www\\Template\\Admin\\Public\\selectCity.html"
-					],
-					[
-						"recharcon",
-						"www\\Application\\Admin\\Controller\\RechargeController.class.php"
-					],
-					[
-						"msginde",
-						"www\\Template\\Admin\\Msg\\index.html"
-					],
-					[
-						"fundo",
-						"www\\Application\\Admin\\Controller\\FundDoController.class.php"
-					],
-					[
-						"giftdo",
-						"www\\Application\\Admin\\Controller\\GiftDoController.class.php"
-					],
-					[
-						"coupondo",
-						"www\\Application\\Admin\\Controller\\CouponDoController.class.php"
-					],
-					[
-						"usercom",
-						"www\\Application\\Common\\Combine\\UserCombine.class.php"
-					],
-					[
-						"adminlog",
-						"www\\Application\\Common\\Logic\\AdminUserLogic.class.php"
-					],
-					[
-						"detailcoup",
-						"www\\Application\\Common\\Model\\DetailCouponsModel.class.php"
-					],
-					[
-						"crg.html",
-						"www\\Template\\Home\\Assets\\recharge.html"
-					],
-					[
-						"amdinu",
-						"www\\Application\\Admin\\Controller\\AdminUserController.class.php"
-					],
-					[
-						"adminsuer/ind",
-						"www\\Template\\Admin\\AdminUser\\index.html"
-					],
-					[
-						"useacc",
-						"www\\Application\\Common\\Logic\\UserAccountLogic.class.php"
-					],
-					[
-						"userlog",
-						"www\\Application\\Common\\Logic\\UserLogic.class.php"
-					],
-					[
-						"adminpw",
-						"www\\Template\\Admin\\AdminPwd\\js.html"
-					],
-					[
-						"index5.htm",
-						"phpcms\\templates\\default\\special\\index5.html"
-					],
-					[
-						"style",
-						"statics\\images\\zt_m3\\style.css"
-					],
-					[
-						"show4.htm",
-						"phpcms\\templates\\default\\special\\show4.html"
-					],
-					[
-						"show5.html",
-						"phpcms\\templates\\default\\special\\show5.html"
-					],
-					[
-						"sty",
-						"statics\\images\\zt_m3\\style.css"
-					],
-					[
-						"m3st",
-						"statics\\images\\zt_m3\\style.css"
-					],
-					[
-						"list4.ht",
-						"phpcms\\templates\\default\\special\\list4.html"
-					],
-					[
-						"ztm3/st",
-						"statics\\images\\zt_m3\\style.css"
-					],
-					[
-						"list4",
-						"caches\\caches_template\\default\\special\\list4.php"
-					],
-					[
-						"index4",
-						"phpcms\\templates\\default\\special\\index4.html"
-					],
-					[
-						"zm3",
-						"statics\\images\\zt_m3\\common.css"
-					],
-					[
-						"zm3com",
-						"statics\\images\\zt_m3\\common.css"
-					],
-					[
-						"common",
-						"statics\\css\\yjj\\common.css"
-					],
-					[
-						"index3.html",
-						"phpcms\\templates\\default\\special\\index3.html"
-					],
-					[
-						"index4.html",
-						"phpcms\\templates\\default\\special\\index4.html"
-					],
-					[
-						"con",
-						"www\\Application\\Admin\\Conf\\config.php"
-					],
-					[
-						"rba",
-						"www\\ThinkPHP\\Library\\Org\\Util\\Rbac.class.php"
-					],
-					[
-						"indco",
-						"www\\Application\\Admin\\Controller\\IndexController.class.php"
-					],
-					[
-						"fun",
-						"www\\Application\\Common\\Common\\function.php"
-					],
-					[
-						"indexcon",
-						"www\\Application\\Admin\\Controller\\IndexController.class.php"
-					],
-					[
-						"conf",
-						"www\\Application\\Admin\\Conf\\config.php"
-					],
-					[
-						"indcon",
-						"www\\Application\\Admin\\Controller\\IndexController.class.php"
-					],
-					[
-						"index/inde",
-						"www\\Template\\Admin\\Index\\index.html"
-					],
-					[
-						"publc",
-						"www\\Public\\Admin\\js\\public_fun.js"
-					],
-					[
-						"indexc",
-						"www\\Application\\Admin\\Controller\\IndexController.class.php"
-					],
-					[
-						"select",
-						"www\\Template\\Admin\\Public\\selectCity.html"
-					],
-					[
-						"wi",
-						"www\\Application\\Admin\\Controller\\WithdrawController.class.php"
-					],
-					[
-						"sele",
-						"www\\Template\\Admin\\Public\\selectCity.html"
-					],
-					[
-						"selectciy",
-						"www\\Template\\Admin\\Public\\selectCity.html"
-					],
-					[
-						"gift",
-						"www\\Application\\Admin\\Controller\\GiftController.class.php"
+						"sp",
+						"sprintf"
 					],
 					[
 						"coup",
-						"www\\Application\\Admin\\Controller\\CouponController.class.php"
+						"couponBalance"
 					],
 					[
-						"css",
-						"www\\Public\\Admin\\css\\css.css"
+						"fol",
+						"floatgtr"
 					],
 					[
-						"moud",
-						"www\\Application\\Common\\Combine\\ModuleCombine.class.php"
+						"fl",
+						"floatgtr"
 					],
 					[
-						"userloc",
-						"www\\Application\\Common\\Logic\\UserLogic.class.php"
+						"para",
+						"param_sub"
 					],
 					[
-						"usernam",
-						"www\\Application\\Common\\Logic\\UserNameLogic.class.php"
+						"par",
+						"paramKey"
 					],
 					[
-						"mod",
-						"www\\Application\\Common\\Combine\\ModuleCombine.class.php"
+						"dir",
+						"dirname"
 					],
 					[
-						"mo",
-						"www\\Application\\Common\\Combine\\ModuleCombine.class.php"
+						"dec",
+						"decode"
 					],
 					[
-						"pass",
-						"www\\Application\\Common\\Common\\pass_function.php"
+						"I",
+						"IFS_INFO"
 					],
 					[
-						"m",
-						"www\\Application\\Common\\Combine\\ModuleCombine.class.php"
+						"ifs",
+						"ifsCode"
 					],
 					[
-						"righ",
-						"www\\Application\\Admin\\Conf\\rights.php"
-					],
-					[
-						"righs",
-						"www\\Application\\Admin\\Controller\\RightsController.class.php"
-					],
-					[
-						"pfu",
-						"www\\Application\\Common\\Common\\pass_function.php"
-					],
-					[
-						"right",
-						"www\\Application\\Admin\\Conf\\rights.php"
-					],
-					[
-						"open",
-						"www\\Application\\Task\\Controller\\OpenModuleController.class.php"
-					],
-					[
-						"app",
-						"www\\Application\\Admin\\Controller\\AppController.class.php"
-					],
-					[
-						"userin",
-						"www\\Application\\Admin\\Controller\\UserInfoController.class.php"
-					],
-					[
-						"userlo",
-						"www\\Application\\Common\\Logic\\UserLogic.class.php"
-					],
-					[
-						"logic",
-						"www\\Application\\Common\\Logic\\AppProductLogic.class.php"
-					],
-					[
-						"openmo",
-						"www\\Application\\Task\\Controller\\OpenModuleController.class.php"
-					],
-					[
-						"modlog",
-						"www\\Application\\Common\\Logic\\ModuleLogic.class.php"
-					],
-					[
-						"modllog",
-						"www\\Application\\Common\\Logic\\ModuleLogic.class.php"
-					],
-					[
-						"rbac",
-						"www\\ThinkPHP\\Library\\Org\\Util\\Rbac.class.php"
-					],
-					[
-						"confi",
-						"www\\Application\\Admin\\Conf\\config.php"
-					],
-					[
-						"com",
-						"www\\Application\\Admin\\Common\\Common.class.php"
-					],
-					[
-						"node",
-						"www\\Application\\Common\\Model\\NodeModel.class.php"
-					],
-					[
-						"acc",
-						"www\\Application\\Common\\Model\\AccessModel.class.php"
-					],
-					[
-						"role",
-						"www\\Application\\Admin\\Controller\\RoleController.class.php"
-					],
-					[
-						"adminconf",
-						"www\\Application\\Admin\\Conf\\config.php"
-					],
-					[
-						"rb",
-						"www\\ThinkPHP\\Library\\Org\\Util\\Rbac.class.php"
-					],
-					[
-						"user",
-						"www\\Application\\Admin\\Controller\\UserController.class.php"
-					],
-					[
-						"adminuser",
-						"www\\Application\\Admin\\Controller\\AdminUserController.class.php"
-					],
-					[
-						"withdraw",
-						"www\\Application\\Admin\\Controller\\WithdrawController.class.php"
-					],
-					[
-						"coupon",
-						"www\\Application\\Admin\\Controller\\CouponController.class.php"
-					],
-					[
-						"recharge",
-						"www\\Application\\Admin\\Controller\\RechargeController.class.php"
-					],
-					[
-						"rig",
-						"www\\Application\\Admin\\Conf\\rights.php"
-					],
-					[
-						"css.",
-						"www\\Public\\Admin\\css\\css.css"
-					],
-					[
-						"mocom",
-						"www\\Application\\Common\\Combine\\ModuleCombine.class.php"
-					],
-					[
-						"usecom",
-						"www\\Application\\Common\\Combine\\UserCombine.class.php"
-					],
-					[
-						"gif",
-						"www\\Application\\Admin\\Controller\\GiftController.class.php"
-					],
-					[
-						"coupo",
-						"www\\Application\\Admin\\Controller\\CouponController.class.php"
-					],
-					[
-						"with",
-						"www\\Application\\Admin\\Controller\\WithdrawController.class.php"
-					],
-					[
-						"recha",
-						"www\\Application\\Admin\\Controller\\RechargeController.class.php"
-					],
-					[
-						"selectc",
-						"www\\Template\\Admin\\Public\\selectCity.html"
-					],
-					[
-						"git",
-						"www\\Public\\js\\getcity.js"
-					],
-					[
-						"page",
-						"www\\ThinkPHP\\Library\\Think\\Page.class.php"
-					],
-					[
-						"rechar",
-						"www\\Application\\Admin\\Controller\\RechargeController.class.php"
-					],
-					[
-						"coupons",
-						"www\\Application\\Admin\\Controller\\CouponController.class.php"
-					],
-					[
-						"rech",
-						"www\\Application\\Admin\\Controller\\RechargeController.class.php"
-					],
-					[
-						"funddo",
-						"www\\Application\\Admin\\Controller\\FundDoController.class.php"
-					],
-					[
-						"userinfo",
-						"www\\Application\\Admin\\Controller\\UserInfoController.class.php"
-					],
-					[
-						"userinf",
-						"www\\Application\\Admin\\Controller\\UserInfoController.class.php"
-					],
-					[
-						"pers",
-						"www\\Template\\Admin\\UserInfo\\personInfo.html"
-					],
-					[
-						"coupdo",
-						"www\\Application\\Admin\\Controller\\CouponDoController.class.php"
-					],
-					[
-						"commo",
-						"Application\\Admin\\Common\\Common.class.php"
-					],
-					[
-						"appcont",
-						"Application\\Admin\\Controller\\AppController.class.php"
-					],
-					[
-						"filup",
-						"Public\\css\\jquery.fileupload.css"
-					],
-					[
-						"val",
-						"Public\\js\\jquery.fileupload-validate.js"
-					],
-					[
-						"he",
-						"Template\\Admin\\Public\\head.html"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 500.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"",
-						"E:\\workdata\\greate-chat.sublime-project"
-					]
-				],
-				"width": 380.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": false,
-			"show_open_files": true,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 254.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			}
-		},
-		"new_window_width": 1008.0
-	},
-	"windows":
-	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"link",
-						"link2img"
-					],
-					[
-						"for",
-						"for	for (…) {…} (Improved Native For-Loop)"
-					],
-					[
-						"form",
-						"form-group"
-					],
-					[
-						"type",
-						"type-2"
-					],
-					[
-						"curcha",
-						"curChatId"
-					],
-					[
-						"le",
-						"leftItemDom"
-					],
-					[
-						"find",
-						"findChat"
-					],
-					[
-						"remove",
-						"removeChatView"
-					],
-					[
-						"visi",
-						"visitor-edit"
-					],
-					[
-						"guestI",
-						"guestInterface"
-					],
-					[
-						"interf",
-						"interfaceId"
-					],
-					[
-						"in",
-						"interfaceId"
-					],
-					[
-						"inter",
-						"interfaceID"
-					],
-					[
-						"start",
-						"startLoop"
-					],
-					[
-						"last",
-						"lastChat"
-					],
-					[
-						"cur",
-						"curAjax"
-					],
-					[
-						"ajax",
-						"ajaxInterface"
-					],
-					[
-						"minw",
-						"minWeightId"
-					],
-					[
-						"w",
-						"workerConfig"
-					],
-					[
-						"int",
-						"interface_rsp"
-					],
-					[
-						"json",
-						"jsonData"
-					],
-					[
-						"chat",
-						"chatId"
-					],
-					[
-						"com",
-						"complete"
-					],
-					[
-						"interfa",
-						"interfaceUrl"
-					],
-					[
-						"interface",
-						"interfaceID"
-					],
-					[
-						"data",
-						"dataObj"
-					],
-					[
-						"contai",
-						"containerDomObj"
-					],
-					[
-						"deal",
-						"dealSuccess"
-					],
-					[
-						"guestInterf",
-						"guestInterfaceList"
-					],
-					[
-						"tab",
-						"tab-pane"
-					],
-					[
-						"preg_re",
-						"preg_replace"
-					],
-					[
-						"get",
-						"getList"
-					],
-					[
-						"preg_mat",
-						"preg_match_all"
-					],
-					[
-						"preg",
-						"preg_match_all"
-					],
-					[
-						"worsp2",
-						"workspace-guest-rt-dr2"
-					],
-					[
-						"edit",
-						"editInterface"
-					],
-					[
-						"margin",
-						"margin-top"
-					],
-					[
-						"cons",
-						"consolutionType"
-					],
-					[
-						"Ch",
-						"ChatRecord"
-					],
-					[
-						"sm",
-						"sms_msg"
-					],
-					[
-						"bu",
-						"buRes"
+						"check",
+						"check_token"
 					],
 					[
 						"accou",
@@ -2098,6 +233,10 @@
 						"classifyRes"
 					],
 					[
+						"for",
+						"foreach	foreach …"
+					],
+					[
 						"classi",
 						"classifyAff"
 					],
@@ -2122,8 +261,1031 @@
 						"operation_zh"
 					],
 					[
+						"cloud",
+						"cloud_company"
+					],
+					[
+						"push",
+						"push_fenzu_zh"
+					],
+					[
+						"comp",
+						"company_name"
+					],
+					[
+						"json",
+						"json_encode"
+					],
+					[
+						"redis",
+						"redis_key_arr"
+					],
+					[
+						"array_mr",
+						"array_merge"
+					],
+					[
+						"cloud_",
+						"cloud_mcrypt"
+					],
+					[
+						"if",
+						"if	if"
+					],
+					[
+						"push_typ",
+						"push_type"
+					],
+					[
+						"A",
+						"AcompanyRet"
+					],
+					[
+						"fun",
+						"fun	function …"
+					],
+					[
+						"push_obj",
+						"push_object_company"
+					],
+					[
+						"var",
+						"var_dump"
+					],
+					[
+						"strr",
+						"str_replace"
+					],
+					[
+						"arra",
+						"array"
+					],
+					[
+						"push_type",
+						"push_type_val"
+					],
+					[
+						"pus",
+						"push_type"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 93.0,
+				"last_filter": "ssphp",
+				"selected_items":
+				[
+					[
+						"ssphp",
+						"Set Syntax: PHP"
+					],
+					[
+						"ren",
+						"File: Rename"
+					],
+					[
+						"new F",
+						"File: New Folder Relative to Project Root"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"ssmd",
+						"Set Syntax: Markdown"
+					],
+					[
+						"ssjas",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"sshtml",
+						"Set Syntax: HTML"
+					],
+					[
+						"ssu",
+						"Preferences: Settings - User"
+					],
+					[
+						"install package",
+						"Package Control: Install Package"
+					],
+					[
+						"sscss",
+						"Set Syntax: CSS"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings - Default"
+					],
+					[
+						"keybu",
+						"Preferences: Key Bindings - User"
+					],
+					[
+						"set user",
+						"Preferences: Settings - User"
+					],
+					[
+						"php",
+						"Set Syntax: PHP"
+					],
+					[
+						"settings",
+						"Preferences: Settings - User"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"map",
+						"View: Toggle Minimap"
+					],
+					[
+						"re",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"css",
+						"Set Syntax: CSS"
+					],
+					[
+						"sideba",
+						"View: Toggle Side Bar"
+					]
+				],
+				"width": 514.0
+			},
+			"console":
+			{
+				"height": 174.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"//192.168.1.232/html/53cloud/www/Application/Ifs/Behavior/ProductStore2Behavior.class.php",
+				"//192.168.1.232/html/53cloud/www/Application/Runtime/Logs/2016-07-06.log",
+				"//192.168.1.232/html/53cloud/www/Application/Common/Combine/ProductCombine.class.php",
+				"//192.168.1.232/html/53cloud/www/Application/Ifs/Conf/tags.php",
+				"//192.168.1.232/html/53cloud/www/Application/Common/Logic/ModuleLogic.class.php",
+				"//192.168.1.232/html/53cloud/www/Application/Common/Combine/CompanyAccountCombine.class.php",
+				"//192.168.1.232/html/53cloud/www/Application/Common/Combine/CompanyCombine.class.php",
+				"//192.168.1.232/html/53cloud/www/Application/Common/Model/ThirdPartOrderModel.class.php",
+				"//192.168.1.232/html/53cloud/www/Application/Common/Logic/CompanyLogic.class.php",
+				"//192.168.1.232/html/53cloud/www/Application/Ifs/Behavior/CheckCompanyExistBehavior.class.php",
+				"//192.168.1.232/html/53cloud/www/Application/Ifs/Common/CommonController.class.php",
+				"//192.168.1.232/html/53cloud/www/Application/Ifs/Behavior/ProductOrderAddBehavior.class.php",
+				"//192.168.1.232/html/53cloud/www/Application/Common/Logic/ThirdPartOrderLogic.class.php",
+				"//192.168.1.232/html/53cloud/www/Application/Common/Logic/InnerUserLogic.class.php",
+				"//192.168.1.232/html/53cloud/www/Application/Common/Logic/WorkerLogic.class.php",
+				"//192.168.1.232/html/53cloud/www/Application/Ifs/Behavior/ProductMoneyBehavior.class.php",
+				"//192.168.1.232/html/53cloud/www/Application/Ifs/Behavior/DecodeDataBehavior.class.php",
+				"//192.168.1.232/html/53cloud/www/Application/Common/Logic/CompanyAccountLogic.class.php",
+				"//192.168.1.232/html/53cloud/server/task/module/model/cloud_interface_freeze_recordModel.php",
+				"//192.168.1.232/html/53cloud/server/task/interface_deduct.php",
+				"//192.168.1.232/html/53cloud/www/Application/Common/Model/BillModel.class.php",
+				"//192.168.1.232/html/pass_pack/www/Application/Common/Logic/UserAccountLogic.class.php",
+				"//192.168.1.232/html/53cloud/www/Application/Common/Model/CouponsRecordModel.class.php",
+				"//192.168.1.232/html/53cloud/www/Application/Common/Common/function.php",
+				"//192.168.1.232/html/53cloud/www/Application/Common/Logic/AuthenticationLogic.class.php",
+				"//192.168.1.232/html/53cloud/www/Application/Common/Logic/CouponsLogic.class.php",
+				"//192.168.1.232/html/53cloud/ThinkPHP/Common/functions.php",
+				"//192.168.1.232/html/pass_pack/www/Application/Common/Model/DetailAdminModel.class.php",
+				"//192.168.1.232/html/pass_pack/www/Application/Common/Model/AccessModel.class.php",
+				"//192.168.1.232/html/pass_pack/www/Application/Common/Model/AppDiscountModel.class.php",
+				"//192.168.1.232/html/53cloud/www/Application/Common/Logic/CouponsRecordLogic.class.php",
+				"//192.168.1.232/html/53cloud/www/Application/Common/Logic/CompanyConfigLogic.class.php",
+				"//192.168.1.232/html/53cloud/www/Application/Ifs/Controller/IndexController.class.php",
+				"//192.168.1.232/html/53cloud/www/include/module.class.php",
+				"//192.168.1.232/html/53cloud/www/Application/Common/Conf/config.php",
+				"//192.168.1.232/html/53cloud/www/Application/Common/Logic/ThirdPartProductLogic.class.php",
+				"//192.168.1.232/html/pass_pack/www/Application/Common/Conf/config.php",
+				"//192.168.1.232/html/53cloud/www/include/check.class.php",
+				"//192.168.1.232/html/53cloud/www/include/function.php",
+				"/Z/kafka/company_collection.php",
+				"/Z/kafka/kfkafka.class.php",
+				"/Z/kafka/配置文件.txt",
+				"/Z/53cloud/www/alipay_notify_index.php",
+				"/Z/53cloud/www/i.php",
+				"/C/Users/jhkf003/Desktop/第三方支付.log",
+				"//192.168.1.232/html/53cloud/server/task/module/model/cloud_company_payModel.php",
+				"//192.168.1.237/html/pass/www/Application/Common/Combine/UserCombine.class.php",
+				"//192.168.1.237/html/pass/www/Application/Common/Logic/AppOrderLogic.class.php",
+				"/F/feike1/code/ThinkPHP/Library/Org/Chat/ComIFS.class.php",
+				"/F/feike1/code/Application/Common/Behavior/ComIFSBeforeBehavior.class.php",
+				"/Z/16_07_01.log",
+				"/F/feike1/code/Application/Common/Behavior/ComIFSBeforeDefaultBehavior.class.php",
+				"/D/Program Files/Sublime Text 3/Data/Index/000110.ldb",
+				"/D/Program Files/Sublime Text 3/Data/Cache/ActionScript/ActionScript.tmLanguage.cache",
+				"/Y/1/1.txt",
+				"/Z/chromecj.com/Hacker-Vision_v1.36/popup.js",
+				"/Z/chromecj.com/Hacker-Vision_v1.36/popup.html",
+				"/Z/chromecj.com/Hacker-Vision_v1.36/hackerVision.css",
+				"/Z/chromecj.com/Hacker-Vision_v1.36/nowhiteflash.js",
+				"/Z/chromecj.com/Hacker-Vision_v1.36/background.js",
+				"/Z/chromecj.com/Hacker-Vision_v1.36/hackerVision.js",
+				"/Z/chromecj.com/Hacker-Vision_v1.36.crx",
+				"/E/blog/source/_posts/php检测图片是否损坏.md",
+				"//192.168.1.232/html/53cloud/ThinkPHP/Conf/convention.php",
+				"//192.168.1.232/html/53cloud/www/Application/Runtime/Logs/Ifs/16_06_28.log",
+				"//192.168.1.232/html/53cloud/www/Application/Runtime/Logs/2016-06-28.log",
+				"/C/Users/jhkf003/Desktop/问题.log",
+				"//192.168.1.232/html/53cloud/www/Application/Runtime/Logs/a2016-06-28.log",
+				"//192.168.1.232/html/53cloud/www/Application/Common/Combine/TplCopyCombine.class.php",
+				"//192.168.1.232/html/53cloud/www/Application/Ifs/Conf/config.php",
+				"//192.168.1.232/html/53cloud/www/Application/Common/Conf/db.php",
+				"/E/blog/scaffolds/draft.md",
+				"/E/blog/scaffolds/page.md",
+				"/E/blog/scaffolds/post.md",
+				"/E/blog/node_modules/hexo-server/lib/server.js",
+				"/E/blog/node_modules/hexo-server/lib/middlewares/header.js",
+				"/E/blog/_config.yml",
+				"/E/blog/package.json",
+				"/D/cmder/config/.history",
+				"/C/Users/jhkf003/Desktop/log.log",
+				"//192.168.1.232/html/53cloud/www/module/controller/indexController.php",
+				"//192.168.1.232/html/53cloud/www/ifs.php",
+				"//192.168.1.232/html/bu/www/Bu_Manage/module/controller/worker_manageController.php",
+				"//192.168.1.232/html/53cloud/www/Application/Ifs/Behavior/CheckTokenBehavior.class.php",
+				"/Z/db.php",
+				"/Z/config.php",
+				"//192.168.1.232/html/53cloud/log/16_06_21.log",
+				"//192.168.1.232/html/53cloud/www/ThinkPHP/ThinkPHP.php",
+				"//192.168.1.237/html/pass/www/Application/Admin/Conf/config.php",
+				"//192.168.1.237/html/pass/www/Application/Common/Conf/config.php",
+				"//192.168.1.237/html/pass/www/Application/Common/Common/function.php",
+				"/E/wamp/www/think/Application/Home/Controller/IndexController.class.php",
+				"//192.168.1.237/html/pass/www/Application/Admin/Conf/tags.php",
+				"//192.168.1.232/html/53cloud/www/ThinkPHP/Library/Org/Util/SecurityAes.class.php",
+				"//192.168.1.232/html/53cloud/www/ThinkPHP/Library/Org/Util/Stack.class.php",
+				"/C/Users/jhkf003/Desktop/ifs.php",
+				"//192.168.1.232/html/53cloud/www/include/redis/kfredis.class.php",
+				"//192.168.1.232/html/53cloud/www/include/redis/sentinel.class.php",
+				"//192.168.1.232/html/53cloud/www/include/redis/read.txt",
+				"/Z/predis-1.1.1/examples/replication_simple.php",
+				"/Z/predis-1.1.1/examples/replication_sentinel.php",
+				"//192.168.1.232/html/53cloud/www/module/controller/regController.php",
+				"/Z/飒思平台支付接口.txt",
+				"/Z/飒思平台支付接口.md",
+				"/F/BaiduYunDownload/2015-03-02电脑备份/sfz/320623196803267817/readme.log",
+				"/C/Users/jhkf003/Desktop/index.html",
+				"//192.168.1.232/html/53cloud/www/index.php",
+				"//192.168.1.232/html/53cloud/www/Cloud_Manage/module/controller/company_authController.php",
+				"//192.168.1.232/html/53cloud/www/Cloud_Manage/module/controller/fund_rechargeController.php",
+				"/C/Users/jhkf003/AppData/Roaming/Sublime Text 3/Packages/Alignment/Default (Windows).sublime-keymap",
+				"//192.168.1.237/html/53cloud/server/KF_Task/thread/testThread.php",
+				"/Z/test_init.log",
+				"//192.168.1.232/html/53cloud/www/module/controller/myinfoController.php",
+				"//192.168.1.237/html/53cloud/server/KF_Task/log/test_init.log",
+				"//192.168.1.237/html/53cloud/server/KF_Task/thread/runinterfaceThread.php",
+				"//192.168.1.237/html/53cloud/server/task/interface_deduct.php",
+				"//192.168.1.237/html/53cloud/server/KF_Task/config/thread.ini",
+				"//192.168.1.237/html/53cloud/server/KF_Task/log/error_log201602.log",
+				"//192.168.1.232/html/53cloud/server/KF_Task/thread/testThread.php",
+				"//192.168.1.232/html/53cloud/server/KF_Task/thread/emailThread.php",
+				"//192.168.1.237/html/53cloud/server/KF_Task/thread/emailThread.php",
+				"//192.168.1.237/html/53cloud/server/KF_Task/thread/smsThread.php",
+				"//192.168.1.232/html/53cloud/www/module/controller/my_month_billController.php",
+				"//192.168.1.232/html/53cloud/www/Cloud_Manage/module/controller/company_detailController.php",
+				"//192.168.1.232/html/53cloud/www/Cloud_Manage/module/controller/modify_accountController.php",
+				"//192.168.1.232/html/53cloud/www/module/controller/modify_accountController.php",
+				"//192.168.1.232/html/53cloud/www/Cloud_Manage/module/controller/ad_manageController.php",
+				"//192.168.1.232/html/53cloud/www/datas/global.php"
+			],
+			"find":
+			{
+				"height": 39.0
+			},
+			"find_in_files":
+			{
+				"height": 102.0,
+				"where_history":
+				[
+					"\\\\192.168.1.232\\html\\53cloud",
+					"\\\\192.168.1.232\\html\\53cloud\\www\\Application",
+					"C:\\文件夹同步",
+					"\\\\192.168.1.249\\www\\t2\\ThinkPHP",
+					"Z:\\thinkphp_3.2.3_full",
+					"E:\\wamp\\www\\wzyyj_com",
+					"E:\\wamp\\www\\wzyyj_com\\zf",
+					"C:\\文件夹同步",
+					"E:\\wamp\\www\\kf\\tpl\\",
+					"E:\\wamp\\www\\wzyyj_com\\",
+					"E:\\wamp\\www\\wzyyj_com\\zf\\",
+					"E:\\wamp\\www\\wzyyj_com\\",
+					"Z:\\classify\\",
+					"\\\\192.168.1.232\\html\\53cloud"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"check_repeat",
+					"size",
+					"gold_discount",
+					"discount",
+					"sell_status",
+					"price",
+					"product_id",
+					"pro_func_management",
+					"menu_product_management",
+					"pay_data",
+					"workerId",
+					"coupons",
+					"计算成功",
+					"array_merge",
+					"F_log",
+					"ProductMoney",
+					"product_data",
+					"productData",
+					"user_id",
+					"type",
+					"worker",
+					"pay_data",
+					"data",
+					"memberGrade",
+					"comId",
+					"ComId",
+					"Com",
+					"com_id",
+					"is_performance",
+					"bill",
+					"order_id",
+					"$userAndAccountData['company_account']",
+					"comId",
+					"com_id",
+					"master_account",
+					"master",
+					"companyAndAccountData",
+					"db_third_part_order",
+					"com_id",
+					"companyAndAccountData",
+					"userAndAccountData",
+					"floatcmp",
+					"floatgtr",
+					"floatcmp",
+					"floatgtre",
+					"floatgtr",
+					"floatgtre",
+					"floatcmp",
+					"floatgtr",
+					"\"",
+					"couponIds",
+					"temp_money",
+					"dataUserAccount",
+					"user_id",
+					"User",
+					"user",
+					"User",
+					"user",
+					"User",
+					"user_id",
+					"userAndAccountData",
+					"UserId",
+					"userId",
+					"user_id",
+					"userCombine",
+					"userId",
+					"warn",
+					"is_auth",
+					"is_auth、",
+					"is_auth",
+					"check_balance_new",
+					"is_auth",
+					"audit_status_combine",
+					"auth",
+					"app_data",
+					"calcAppMoneyRet",
+					"AppAnd",
+					"detailBillArr",
+					"getAppMinMoney",
+					"F_",
+					"Coupons",
+					"coupons",
+					"Coupons",
+					"coupons",
+					"Coupons",
+					"coupons",
+					"Coupons",
+					"calcMoney",
+					"DailyUsedMoney",
+					"Product",
+					"calcProductMoney",
+					"calcAppExpTimeRet",
+					"cache",
+					"encrypt",
+					"couponDiscount",
+					"cloud_company_id",
+					"company_id",
+					"COMPANY_ID_NOT_EXIST",
+					"coupon_balance",
+					"check_balance_new",
+					"	",
+					"PRODUCT_KEY",
+					"PRODUCT_KEY_ERROR",
+					"英文名已存",
+					"英文名",
+					"param",
+					"产品键值为空",
+					"OR",
+					"getDates",
+					"Admin",
+					"DecodeData",
+					"pass_log",
+					"Hook::listen",
+					"checkToken",
+					"CheckToken",
+					"checkToken",
+					"tokenCheck",
+					"token_check",
+					"'check_token'",
+					"dist",
+					"yx_from",
+					"yx_form",
+					"real_proxy",
+					"set_redis_company_info",
+					"get_up_dir2",
+					"give_inner_user",
+					"insert_account_order_info",
+					"get_ip"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"F_floatcmp",
+					"F_floatgtr",
+					"F_floatcmp",
+					"F_floatgtr",
+					"comId",
+					"  ",
+					"",
+					"用户",
+					"等级",
+					"升等级",
+					"资金充值",
+					"transfer",
+					"",
+					"/",
+					".",
+					"么",
+					"。",
+					"",
+					"！",
+					"后",
+					"：",
+					"，",
+					"。",
+					"，",
+					"：",
+					"。",
+					"",
+					"bu",
+					"not_time",
+					"",
+					"`bu_not_worktime`",
+					"\"",
+					"csdn.net",
+					"53kf",
+					"",
+					"qq",
+					"http://www.52pojie.cn/",
+					"http://www.imooc.com/",
+					"http://www.189.cn",
+					"www.189.cn",
+					"google",
+					"",
+					"catid=\"288\"",
+					"<div class=\"more7\"><div class=\"bgs_title fl\">动态信息</div>",
+					"bgs_title_bg.jpg",
+					"catid=\"288\"",
+					"10",
+					"class=\"pic-img\"",
+					"<?php echo IMG_PATH;?>20151218",
+					"<?php echo IMG_PATH;?>",
+					"<?php echo JS_PATH;?>20151218"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 38.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 128.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 142.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 74.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"pro_func",
+						"www\\Cloud_Manage\\module\\controller\\pro_func_managementController.php"
+					],
+					[
+						"cloud_interface_freeze",
+						"server\\task\\module\\model\\cloud_interface_freeze_recordModel.php"
+					],
+					[
+						"func",
+						"www\\Application\\Common\\Common\\function.php"
+					],
+					[
+						"common/function",
+						"www\\Application\\Common\\Common\\function.php"
+					],
+					[
+						"function",
+						"ThinkPHP\\Common\\functions.php"
+					],
+					[
+						"modul.cla",
+						"www\\include\\module.class.php"
+					],
+					[
+						"commc",
+						"www\\Application\\Ifs\\Common\\CommonController.class.php"
+					],
+					[
+						"conv",
+						"ThinkPHP\\Conf\\convention.php"
+					],
+					[
+						"module.cla",
+						"www\\include\\module.class.php"
+					],
+					[
+						"indexcon",
+						"www\\module\\controller\\indexController.php"
+					],
+					[
+						"ifs.",
+						"www\\ifs.php"
+					],
+					[
+						"indexc",
+						"www\\module\\controller\\indexController.php"
+					],
+					[
+						"regcon",
+						"www\\module\\controller\\regController.php"
+					],
+					[
+						"index",
+						"www\\index.php"
+					],
+					[
+						"/inde",
+						"www\\index.php"
+					],
+					[
+						"fund",
+						"www\\Cloud_Manage\\module\\controller\\fund_rechargeController.php"
+					],
+					[
+						"function.",
+						"www\\include\\function.php"
+					],
+					[
+						"cloud_manage/module/contrller/auth",
+						"www\\Cloud_Manage\\module\\controller\\company_authController.php"
+					],
+					[
+						"modify_account",
+						"www\\Cloud_Manage\\module\\controller\\modify_accountController.php"
+					],
+					[
+						"company_deta",
+						"www\\Cloud_Manage\\module\\controller\\company_detailController.php"
+					],
+					[
+						"authcontoller",
+						"www\\module\\controller\\authenticationController.php"
+					],
+					[
+						"infoc",
+						"www\\module\\controller\\myinfoController.php"
+					],
+					[
+						"/module/controller/reg",
+						"www\\module\\controller\\regController.php"
+					],
+					[
+						"cloud_manage/module/controller/",
+						"www\\Cloud_Manage\\module\\controller\\ad_manageController.php"
+					],
+					[
+						"company_info.html",
+						"templates\\admin\\company_detail\\company_info.html"
+					],
+					[
+						"/cloud_m/compan_de",
+						"www\\Cloud_Manage\\module\\controller\\company_detailController.php"
+					],
+					[
+						"function.pp",
+						"www\\include\\function.php"
+					],
+					[
+						"server/task/modu/cloud_inneruser",
+						"server\\task\\module\\model\\cloud_inner_user_billModel.php"
+					],
+					[
+						"function.php",
+						"www\\include\\function.php"
+					],
+					[
+						"server/task/module/cloud_interf",
+						"server\\task\\module\\model\\cloud_interface_freeze_recordModel.php"
+					],
+					[
+						"/css/css",
+						"tpl\\kf\\Public\\css\\css.css"
+					],
+					[
+						"/indexc",
+						"application\\Portal\\Controller\\IndexController.class.php"
+					],
+					[
+						"tpl/",
+						"tpl\\kf\\Portal\\index.html"
+					],
+					[
+						"helpcon",
+						"application\\Portal\\Controller\\HelpController.class.php"
+					],
+					[
+						"tpl/kf/",
+						"tpl\\kf\\Portal\\gonggao.html"
+					],
+					[
+						"help.",
+						"tpl\\kf\\Portal\\help.html"
+					],
+					[
+						"/hep",
+						"tpl\\kf\\Portal\\help.html"
+					],
+					[
+						"/kf/pub/na",
+						"kf\\tpl\\kf\\Public\\nav.html"
+					],
+					[
+						"zf/controllein",
+						"wzyyj_com\\zf\\runtime\\controls\\zf_index_php\\caselibaction.class.php"
+					],
+					[
+						"category_bangong",
+						"wzyyj_com\\caches\\caches_template\\default\\content\\category_bangongshi.php"
+					],
+					[
+						"thinkphp/function",
+						"classify\\Core\\ThinkPHP\\Common\\functions.php"
+					],
+					[
+						"admin/confiaction",
+						"classify\\Core\\Lib\\Action\\Admin\\ConfigAction.class.php"
+					],
+					[
+						"www/module/controller/regcontroller.php",
+						"www\\module\\controller\\regController.php"
+					],
+					[
+						"",
+						"config.yaml"
+					],
+					[
+						"index3",
+						"wzyyj_com\\phpcms\\templates\\default\\special\\index3.html"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"E:\\workdata\\local-53kf.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 305.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 656.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
 						"work",
-						"workerRes"
+						"workerData"
+					],
+					[
+						"exp",
+						"expDay"
+					],
+					[
+						"user",
+						"userAndWorkerInfoData"
+					],
+					[
+						"us",
+						"userId"
+					],
+					[
+						"mg",
+						"memberGrade"
+					],
+					[
+						"mem",
+						"member_grade"
+					],
+					[
+						"company",
+						"companyAccountData"
+					],
+					[
+						"cou",
+						"couponsData"
+					],
+					[
+						"com",
+						"companyData"
+					],
+					[
+						"pric",
+						"priceMoneyMax"
+					],
+					[
+						"sp",
+						"sprintf"
+					],
+					[
+						"coup",
+						"couponBalance"
+					],
+					[
+						"fol",
+						"floatgtr"
+					],
+					[
+						"fl",
+						"floatgtr"
+					],
+					[
+						"para",
+						"param_sub"
+					],
+					[
+						"par",
+						"paramKey"
+					],
+					[
+						"dir",
+						"dirname"
+					],
+					[
+						"dec",
+						"decode"
+					],
+					[
+						"I",
+						"IFS_INFO"
+					],
+					[
+						"ifs",
+						"ifsCode"
+					],
+					[
+						"check",
+						"check_token"
+					],
+					[
+						"accou",
+						"account_type"
+					],
+					[
+						"funct",
+						"function"
+					],
+					[
+						"common",
+						"COMMON_PATH"
+					],
+					[
+						"task",
+						"task_document"
+					],
+					[
+						"doc",
+						"document_ret"
+					],
+					[
+						"new",
+						"new_arr"
+					],
+					[
+						"task_trans",
+						"is_task_can_transfer"
+					],
+					[
+						"to",
+						"to_bu_type"
+					],
+					[
+						"pa",
+						"parseInt"
+					],
+					[
+						"temcds",
+						"tem_count_days"
+					],
+					[
+						"str_rep",
+						"str_replace"
+					],
+					[
+						"trans",
+						"task_transfer_btn"
+					],
+					[
+						"tex",
+						"text-align"
+					],
+					[
+						"BU",
+						"BU职员"
+					],
+					[
+						"tl",
+						"tl_v"
+					],
+					[
+						"file",
+						"file_content"
+					],
+					[
+						"tar",
+						"targetFilePhp"
+					],
+					[
+						"E",
+						"PHP_EOL"
+					],
+					[
+						"file_",
+						"file_put_contents"
+					],
+					[
+						"base",
+						"base64_encode"
+					],
+					[
+						"c",
+						"close"
+					],
+					[
+						"hav",
+						"have_ticket_buStr"
+					],
+					[
+						"se",
+						"searchs"
+					],
+					[
+						"fon",
+						"font-size"
+					],
+					[
+						"marg",
+						"margin-bottom"
+					],
+					[
+						"ass",
+						"assign"
+					],
+					[
+						"back",
+						"back_name"
+					],
+					[
+						"sli",
+						"siblings"
+					],
+					[
+						"can",
+						"cancelVal"
+					],
+					[
+						"tree",
+						"treeNode"
+					],
+					[
+						"where",
+						"whereArr"
+					],
+					[
+						"class",
+						"classifyRes"
+					],
+					[
+						"for",
+						"foreach	foreach …"
+					],
+					[
+						"classi",
+						"classifyAff"
+					],
+					[
+						"tre",
+						"treeNode"
+					],
+					[
+						"is_dir",
+						"is_director"
+					],
+					[
+						"function",
+						"create_function"
+					],
+					[
+						"print",
+						"print_r"
+					],
+					[
+						"oper",
+						"operation_zh"
 					],
 					[
 						"cloud",
@@ -2138,8 +1300,8 @@
 						"company_name"
 					],
 					[
-						"company",
-						"company_info"
+						"json",
+						"json_encode"
 					],
 					[
 						"redis",
@@ -2205,49 +1367,17 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 400.0,
-				"last_filter": "",
+				"height": 93.0,
+				"last_filter": "ssphp",
 				"selected_items":
 				[
 					[
-						"for",
-						"Format Arguments"
+						"ssphp",
+						"Set Syntax: PHP"
 					],
 					[
-						"keys",
-						"Preferences: Key Bindings - User"
-					],
-					[
-						"forma",
-						"Format Arguments"
-					],
-					[
-						"pc",
-						"Package Control: Remove Package"
-					],
-					[
-						"alig",
-						"Preferences: Alignment File Settings – User"
-					],
-					[
-						"user",
-						"Preferences: Key Bindings - User"
-					],
-					[
-						"pcl",
-						"Package Control: List Packages"
-					],
-					[
-						"pci",
-						"Package Control: Install Package"
-					],
-					[
-						"pcr",
-						"Package Control: Remove Package"
-					],
-					[
-						"ssjs",
-						"Set Syntax: JavaScript"
+						"ren",
+						"File: Rename"
 					],
 					[
 						"new F",
@@ -2268,10 +1398,6 @@
 					[
 						"sshtml",
 						"Set Syntax: HTML"
-					],
-					[
-						"ssphp",
-						"Set Syntax: PHP"
 					],
 					[
 						"ssu",
@@ -2326,7 +1452,7 @@
 						"View: Toggle Side Bar"
 					]
 				],
-				"width": 536.0
+				"width": 514.0
 			},
 			"console":
 			{
@@ -2345,175 +1471,148 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
-			"expanded_folders":
-			[
-				"/E/blog/source",
-				"/E/blog/source/_posts"
-			],
 			"file_history":
 			[
-				"/E/blog/source/_posts/npm模块集合.md",
-				"/E/blog/source/_posts/GitHub-Pages-Hexo搭建博客.md",
-				"/E/blog/source/_posts/php-打印调用函数入口地址-堆栈.md",
-				"/E/aegeansea.github.io/.gitignore",
-				"/E/aegeansea.github.io/_config.yml",
-				"/Z/CrazyMilk.github.io/_config.yml",
-				"/Z/CrazyMilk.github.io/themes/yilia/_config.yml",
-				"/E/blog/source/_posts/sublime-text-3-注册码.md",
-				"/Z/新建文本文档.txt",
-				"/Z/20160408204716/Suki[A]/Suki/Suki碎碎念.txt",
-				"/Z/Suki[A]/Suki/Suki碎碎念.txt",
-				"/Z/.inputrc",
-				"/Z/.bashrc",
-				"/Z/cygwin.bat",
-				"/Z/CygwinPortable.lnk",
-				"/E/blog/source/_posts/Sublime-Text-快捷键.md",
-				"/E/blog/source/_posts/地址栏插入js标签代码.md",
-				"/E/blog/source/_posts/PHP-打印调用函数入口地址-堆栈.md",
-				"/E/blog/source/_posts/多个github帐号的SSH-key切换.md",
-				"/E/blog/source/_posts/git不追踪已经在版本库中的文件修改.md",
-				"/E/fksc/un-track-files.md",
-				"/E/blog/themes/yilia/_config.yml",
-				"/E/blog/source/_posts/新建文档.md",
-				"/E/blog/source/_posts/是法师打发斯蒂芬.md",
+				"//192.168.1.232/html/53cloud/templates/admin/third_part_product/add.html",
+				"//192.168.1.232/html/53cloud/www/Application/Ifs/Behavior/ProductStore2Behavior.class.php",
+				"//192.168.1.232/html/53cloud/www/Application/Runtime/Logs/2016-07-06.log",
+				"//192.168.1.232/html/53cloud/www/Application/Common/Combine/ProductCombine.class.php",
+				"//192.168.1.232/html/53cloud/www/Application/Ifs/Conf/tags.php",
+				"//192.168.1.232/html/53cloud/www/Application/Common/Logic/ModuleLogic.class.php",
+				"//192.168.1.232/html/53cloud/www/Application/Common/Combine/CompanyAccountCombine.class.php",
+				"//192.168.1.232/html/53cloud/www/Application/Common/Combine/CompanyCombine.class.php",
+				"//192.168.1.232/html/53cloud/www/Application/Common/Model/ThirdPartOrderModel.class.php",
+				"//192.168.1.232/html/53cloud/www/Application/Common/Logic/CompanyLogic.class.php",
+				"//192.168.1.232/html/53cloud/www/Application/Ifs/Behavior/CheckCompanyExistBehavior.class.php",
+				"//192.168.1.232/html/53cloud/www/Application/Ifs/Common/CommonController.class.php",
+				"//192.168.1.232/html/53cloud/www/Application/Ifs/Behavior/ProductOrderAddBehavior.class.php",
+				"//192.168.1.232/html/53cloud/www/Application/Common/Logic/ThirdPartOrderLogic.class.php",
+				"//192.168.1.232/html/53cloud/www/Application/Common/Logic/InnerUserLogic.class.php",
+				"//192.168.1.232/html/53cloud/www/Application/Common/Logic/WorkerLogic.class.php",
+				"//192.168.1.232/html/53cloud/www/Application/Ifs/Behavior/ProductMoneyBehavior.class.php",
+				"//192.168.1.232/html/53cloud/www/Application/Ifs/Behavior/DecodeDataBehavior.class.php",
+				"//192.168.1.232/html/53cloud/www/Application/Common/Logic/CompanyAccountLogic.class.php",
+				"//192.168.1.232/html/53cloud/server/task/module/model/cloud_interface_freeze_recordModel.php",
+				"//192.168.1.232/html/53cloud/server/task/interface_deduct.php",
+				"//192.168.1.232/html/53cloud/www/Application/Common/Model/BillModel.class.php",
+				"//192.168.1.232/html/pass_pack/www/Application/Common/Logic/UserAccountLogic.class.php",
+				"//192.168.1.232/html/53cloud/www/Application/Common/Model/CouponsRecordModel.class.php",
+				"//192.168.1.232/html/53cloud/www/Application/Common/Common/function.php",
+				"//192.168.1.232/html/53cloud/www/Application/Common/Logic/AuthenticationLogic.class.php",
+				"//192.168.1.232/html/53cloud/www/Application/Common/Logic/CouponsLogic.class.php",
+				"//192.168.1.232/html/53cloud/ThinkPHP/Common/functions.php",
+				"//192.168.1.232/html/pass_pack/www/Application/Common/Model/DetailAdminModel.class.php",
+				"//192.168.1.232/html/pass_pack/www/Application/Common/Model/AccessModel.class.php",
+				"//192.168.1.232/html/pass_pack/www/Application/Common/Model/AppDiscountModel.class.php",
+				"//192.168.1.232/html/53cloud/www/Application/Common/Logic/CouponsRecordLogic.class.php",
+				"//192.168.1.232/html/53cloud/www/Application/Common/Logic/CompanyConfigLogic.class.php",
+				"//192.168.1.232/html/53cloud/www/Application/Ifs/Controller/IndexController.class.php",
+				"//192.168.1.232/html/53cloud/www/include/module.class.php",
+				"//192.168.1.232/html/53cloud/www/Application/Common/Conf/config.php",
+				"//192.168.1.232/html/53cloud/www/Application/Common/Logic/ThirdPartProductLogic.class.php",
+				"//192.168.1.232/html/pass_pack/www/Application/Common/Conf/config.php",
+				"//192.168.1.232/html/53cloud/www/include/check.class.php",
+				"//192.168.1.232/html/53cloud/www/include/function.php",
+				"/Z/kafka/company_collection.php",
+				"/Z/kafka/kfkafka.class.php",
+				"/Z/kafka/配置文件.txt",
+				"/Z/53cloud/www/alipay_notify_index.php",
+				"/Z/53cloud/www/i.php",
+				"/C/Users/jhkf003/Desktop/第三方支付.log",
+				"//192.168.1.232/html/53cloud/server/task/module/model/cloud_company_payModel.php",
+				"//192.168.1.237/html/pass/www/Application/Common/Combine/UserCombine.class.php",
+				"//192.168.1.237/html/pass/www/Application/Common/Logic/AppOrderLogic.class.php",
+				"/F/feike1/code/ThinkPHP/Library/Org/Chat/ComIFS.class.php",
+				"/F/feike1/code/Application/Common/Behavior/ComIFSBeforeBehavior.class.php",
+				"/Z/16_07_01.log",
+				"/F/feike1/code/Application/Common/Behavior/ComIFSBeforeDefaultBehavior.class.php",
+				"/D/Program Files/Sublime Text 3/Data/Index/000110.ldb",
+				"/D/Program Files/Sublime Text 3/Data/Cache/ActionScript/ActionScript.tmLanguage.cache",
+				"/Y/1/1.txt",
+				"/Z/chromecj.com/Hacker-Vision_v1.36/popup.js",
+				"/Z/chromecj.com/Hacker-Vision_v1.36/popup.html",
+				"/Z/chromecj.com/Hacker-Vision_v1.36/hackerVision.css",
+				"/Z/chromecj.com/Hacker-Vision_v1.36/nowhiteflash.js",
+				"/Z/chromecj.com/Hacker-Vision_v1.36/background.js",
+				"/Z/chromecj.com/Hacker-Vision_v1.36/hackerVision.js",
+				"/Z/chromecj.com/Hacker-Vision_v1.36.crx",
+				"/E/blog/source/_posts/php检测图片是否损坏.md",
+				"//192.168.1.232/html/53cloud/ThinkPHP/Conf/convention.php",
+				"//192.168.1.232/html/53cloud/www/Application/Runtime/Logs/Ifs/16_06_28.log",
+				"//192.168.1.232/html/53cloud/www/Application/Runtime/Logs/2016-06-28.log",
+				"/C/Users/jhkf003/Desktop/问题.log",
+				"//192.168.1.232/html/53cloud/www/Application/Runtime/Logs/a2016-06-28.log",
+				"//192.168.1.232/html/53cloud/www/Application/Common/Combine/TplCopyCombine.class.php",
+				"//192.168.1.232/html/53cloud/www/Application/Ifs/Conf/config.php",
+				"//192.168.1.232/html/53cloud/www/Application/Common/Conf/db.php",
+				"/E/blog/scaffolds/draft.md",
+				"/E/blog/scaffolds/page.md",
+				"/E/blog/scaffolds/post.md",
+				"/E/blog/node_modules/hexo-server/lib/server.js",
+				"/E/blog/node_modules/hexo-server/lib/middlewares/header.js",
 				"/E/blog/_config.yml",
-				"/E/blog/themes/yilia/layout/_partial/post/title.ejs",
-				"/E/blog/source/_posts/测试photo.md",
-				"/E/blog/themes/yilia/README.md",
-				"/E/blog/themes/yilia/languages/default.yml",
-				"/E/blog/themes/yilia/layout/_partial/post/share_jia.ejs",
-				"/E/blog/db.json",
-				"/Y/feike/code/Public/Js/chat/chat.js",
-				"/Y/feike/code/Public/Js/workspace/src/GuestChatModule/guestC2InterfaceHelper.js",
-				"/Y/feike/code/Public/Js/workspace/dist.js",
-				"/Y/feike/code/Application/Common/Logic/InterfaceLogic.class.php",
-				"/Y/feike/code/Application/Common/Behavior/ComIFSBeforeDefaultBehavior.class.php",
-				"/C/Users/jhkf003/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
-				"/C/Users/jhkf003/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
-				"/Y/feike/code/Application/Workspace/Controller/IndexController.class.php",
-				"/Y/feike/code/Application/Home/View/InterfaceManage/index.html",
-				"/Y/feike/code/Application/Common/Model/InterfaceModel.class.php",
-				"/Y/feike/code/Application/Home/View/InterfaceManage/addInterface.html",
-				"/Y/feike/code/Application/Home/View/InterfaceManage/editInterface.html",
-				"/Y/feike/code/Application/Home/Controller/InterfaceManageController.class.php",
-				"/Y/feike/document/talk_gc_2016_modify.sql",
-				"/Y/feike/code/Application/Home/View/UserInterfaceConfig/index.html",
-				"/Y/feike/code/Application/Home/View/OtherSetting/index.html",
-				"/Y/feike/code/Application/Home/Controller/OtherSettingController.class.php",
-				"/Y/feike/code/Application/Common/Logic/OtherSettingLogic.class.php",
-				"/Y/feike/code/Application/Common/Model/CompanyConfigModel.class.php",
-				"/Y/feike/code/Application/Common/Conf/config.php",
-				"/Y/feike/code/Application/Common/Conf/JsAndCssVersion_config.php",
-				"/Y/feike/code/Public/Js/workspace/src/GuestChatModule/guestChatHelper.js",
-				"/Y/feike/code/Application/Common/Model/CompanyModel.class.php",
-				"/Y/feike/.gitignore",
-				"/Y/feike/code/Public/Css/index.css",
-				"/Y/feike/code/Public/Css/workspace.css",
-				"/E/fksc/change.log",
-				"/Y/feike/code/Application/Chat/View/Index/page.html",
-				"/Y/feike/document/talk_gc.sql",
-				"/Y/feike/document/clear data.sql",
-				"/E/blog/source/_posts/hello-world.md",
-				"/E/blog/themes/yilia/languages/zh-Hans.yml",
-				"/Y/feike/code/Application/Chat/Controller/IndexController.class.php",
-				"/Y/feike/code/Public/Js/chat/src/module/frontend/openchat.js",
-				"/Y/feike/code/Public/Js/chat/Gruntfile.js",
-				"/Y/feike/code/Public/Js/chat/kf.js",
-				"/Y/feike/code/Public/Js/chat/src/module/frontend/getInterfaceExtraParam.js",
-				"/C/Users/jhkf003/Desktop/shadowsocks/Shadowsocks2.4/user-rule.txt",
-				"/Y/feike/code/Application/Home/Controller/TestIfsController.class.php",
-				"/Y/feike/code/Public/Js/workspace/src/GuestChatModule/guestC1InterfaceHelper.js",
-				"/Y/feike/code/Public/Js/chat/src/module/chat/cmd.js",
-				"/E/doc/cmds/lnk.md",
-				"/E/doc/cmds/lok.md",
-				"/E/doc/analy.md",
-				"/Y/feike/code/Public/Js/workspace/src/GuestChatModule/guestChatMain.js",
-				"/Y/feike/code/Application/Workspace/View/Index/guest-chat.html",
-				"/Y/feike/code/Application/Common/Behavior/ComIFSBeforeBehavior.class.php",
-				"/Y/feike/code/Application/Home/View/LogLogin/index.html",
-				"/Y/feike/code/Application/Home/View/LogLogin/allLogLoginList.html",
-				"/Y/master/code/manager.php",
-				"/Y/master/code/Application/Common/Conf/config.php",
-				"/E/fksc/feike/Application/Common/Conf/config.php",
-				"/Y/feike/code/ThinkPHP/Library/Org/Chat/ComIFS.class.php",
-				"/Y/feike/code/Application/Workspace/Controller/TestIfsController.class.php",
-				"/Y/feike/code/explorer/uploadip.php",
-				"/Y/feike/code/explorer/ip.log",
-				"/E/fksc/feike/Application/Common/Conf/tags.php",
-				"/Y/feike/code/ThinkPHP/Library/Org/Chat/BootPage.class.php",
-				"/Y/feike/code/Public/Js/workspace/src/BaseModule/http.js",
-				"/Y/feike/code/Public/Js/workspace/src/define.js",
-				"/Y/feike/code/ThinkPHP/Library/Vendor/Hprose/HproseHttpServer.php",
-				"/Y/feike/code/ThinkPHP/Library/Think/Controller/HproseController.class.php",
-				"/Y/feike/code/Application/Api/Conf/config.php",
-				"/Y/feike/code/Public/Js/workspace/src/GuestChatModule/guestA1InfoHelper.js",
-				"/Y/feike/code/Public/Js/workspace/src/main.js",
-				"/Y/feike/code/Application/Chat/Controller/CommonController.class.php",
-				"/Y/feike/code/Application/Common/Logic/CommonFilesLogic.class.php",
-				"/Y/feike/code/Application/Home/Controller/CommonController.class.php",
-				"/Y/feike/code/Application/Home/View/Common/common.html",
-				"/Y/feike/code/Application/Common/Logic/CompanyConfigLogic.class.php",
-				"/Y/feike/code/ThinkPHP/Library/Org/Util/String.class.php",
-				"/Y/feike/code/Application/Common/Logic/RoleLogic.class.php",
-				"/Y/feike/code/explorer/lib/function/common.function.php",
-				"/Y/feike/code/Application/Runtime/Cache/Home/90ba3eb9cdcec2208a996ecd2207ff31.php",
-				"/Y/feike/code/Application/Runtime/Logs/Home/16_03_14.log",
-				"/Y/feike/code/Application/Runtime/Cache/Home/b595d40df2d8c1dbdf79943b1900483a.php",
-				"/Y/feike/code/Application/Home/Controller/CommonStatementController.class.php",
-				"/Y/feike/code/Application/Home/View/CommonStatement/editState.html",
-				"/Y/feike/code/Application/Home/View/CommonStatement/editGroup.html",
-				"/Y/feike/code/Application/Home/View/CommonFiles/editFile.html",
-				"/Y/feike/code/Application/Home/View/BlockUser/addBlockUser.html",
-				"/Y/feike/code/explorer/config/config.php",
-				"/Y/feike/code/explorer/index.php",
-				"/Y/html/explorer/index.php",
-				"/Y/feike/code/explorer/log_20160311_ 60.186.185.2_60.186.185.2.log",
-				"/E/fksc/config_160311164143.html",
-				"/E/fksc/config_160303155530.html",
-				"/E/fksc/config.md",
-				"/Y/html/explorer/log_20160311_ 60.186.185.2_60.186.185.2.log",
-				"/Y/html/explorer/lib/function/web.function.php",
-				"/Y/feike/code/ThinkPHP/Common/functions.php",
-				"/Y/html/explorer/controller/user.class.php",
-				"/Z/api.php",
-				"/Y/feike/code/Application/Home/Controller/CompanyInfoController.class.php",
-				"/Y/feike/code/Application/Home/Controller/UserProfileController.class.php",
-				"/Y/feike/code/Application/Home/Controller/ModuleManageController.class.php",
-				"/Y/feike/code/Application/Common/Model/RoleModuleModel.class.php"
+				"/E/blog/package.json",
+				"/D/cmder/config/.history",
+				"/C/Users/jhkf003/Desktop/log.log",
+				"//192.168.1.232/html/53cloud/www/module/controller/indexController.php",
+				"//192.168.1.232/html/53cloud/www/ifs.php",
+				"//192.168.1.232/html/bu/www/Bu_Manage/module/controller/worker_manageController.php",
+				"//192.168.1.232/html/53cloud/www/Application/Ifs/Behavior/CheckTokenBehavior.class.php",
+				"/Z/db.php",
+				"/Z/config.php",
+				"//192.168.1.232/html/53cloud/log/16_06_21.log",
+				"//192.168.1.232/html/53cloud/www/ThinkPHP/ThinkPHP.php",
+				"//192.168.1.237/html/pass/www/Application/Admin/Conf/config.php",
+				"//192.168.1.237/html/pass/www/Application/Common/Conf/config.php",
+				"//192.168.1.237/html/pass/www/Application/Common/Common/function.php",
+				"/E/wamp/www/think/Application/Home/Controller/IndexController.class.php",
+				"//192.168.1.237/html/pass/www/Application/Admin/Conf/tags.php",
+				"//192.168.1.232/html/53cloud/www/ThinkPHP/Library/Org/Util/SecurityAes.class.php",
+				"//192.168.1.232/html/53cloud/www/ThinkPHP/Library/Org/Util/Stack.class.php",
+				"/C/Users/jhkf003/Desktop/ifs.php",
+				"//192.168.1.232/html/53cloud/www/include/redis/kfredis.class.php",
+				"//192.168.1.232/html/53cloud/www/include/redis/sentinel.class.php",
+				"//192.168.1.232/html/53cloud/www/include/redis/read.txt",
+				"/Z/predis-1.1.1/examples/replication_simple.php",
+				"/Z/predis-1.1.1/examples/replication_sentinel.php",
+				"//192.168.1.232/html/53cloud/www/module/controller/regController.php",
+				"/Z/飒思平台支付接口.txt",
+				"/Z/飒思平台支付接口.md",
+				"/F/BaiduYunDownload/2015-03-02电脑备份/sfz/320623196803267817/readme.log",
+				"/C/Users/jhkf003/Desktop/index.html",
+				"//192.168.1.232/html/53cloud/www/index.php",
+				"//192.168.1.232/html/53cloud/www/Cloud_Manage/module/controller/company_authController.php",
+				"//192.168.1.232/html/53cloud/www/Cloud_Manage/module/controller/fund_rechargeController.php",
+				"/C/Users/jhkf003/AppData/Roaming/Sublime Text 3/Packages/Alignment/Default (Windows).sublime-keymap",
+				"//192.168.1.237/html/53cloud/server/KF_Task/thread/testThread.php",
+				"/Z/test_init.log",
+				"//192.168.1.232/html/53cloud/www/module/controller/myinfoController.php",
+				"//192.168.1.237/html/53cloud/server/KF_Task/log/test_init.log",
+				"//192.168.1.237/html/53cloud/server/KF_Task/thread/runinterfaceThread.php",
+				"//192.168.1.237/html/53cloud/server/task/interface_deduct.php",
+				"//192.168.1.237/html/53cloud/server/KF_Task/config/thread.ini",
+				"//192.168.1.237/html/53cloud/server/KF_Task/log/error_log201602.log",
+				"//192.168.1.232/html/53cloud/server/KF_Task/thread/testThread.php",
+				"//192.168.1.232/html/53cloud/server/KF_Task/thread/emailThread.php",
+				"//192.168.1.237/html/53cloud/server/KF_Task/thread/emailThread.php",
+				"//192.168.1.237/html/53cloud/server/KF_Task/thread/smsThread.php",
+				"//192.168.1.232/html/53cloud/www/module/controller/my_month_billController.php",
+				"//192.168.1.232/html/53cloud/www/Cloud_Manage/module/controller/company_detailController.php",
+				"//192.168.1.232/html/53cloud/www/Cloud_Manage/module/controller/modify_accountController.php",
+				"//192.168.1.232/html/53cloud/www/module/controller/modify_accountController.php",
+				"//192.168.1.232/html/53cloud/www/Cloud_Manage/module/controller/ad_manageController.php"
 			],
 			"find":
 			{
-				"height": 30.0
+				"height": 29.0
 			},
 			"find_in_files":
 			{
 				"height": 102.0,
 				"where_history":
 				[
-					"E:\\blog\\themes",
-					"Y:\\feike,*.js,*.html",
-					"E:\\doc",
-					"Y:\\feike\\code,*.css",
-					"Y:\\feike\\code,*.php",
-					"Y:\\feike\\code,*.js,*.php",
-					"Y:\\feike\\code,*.js",
-					"Y:\\feike\\code,*.php",
-					"Y:\\feike\\code,*.js,*.json,*.html",
-					"Y:\\feike\\code,*.php",
-					"Y:\\feike\\code,*.js,*.html",
-					"Y:\\feike\\code,*.php",
-					"Y:\\feike\\code",
-					"Y:\\feike\\code,*.php",
-					"Y:\\feike\\code",
-					"Y:\\feike\\code\\Public\\Js\\workspace",
-					"Y:\\feike\\code\\,*.html",
-					"Y:\\feike\\code\\",
-					"Y:\\feike\\code\\,*.html",
-					"Y:\\feike\\code\\Application\\Workspace\\View\\Index",
-					"Z:\\tag3-2-0\\talk\\www\\",
-					"Z:\\tag3-2-0\\talk\\www\\new\\Client\\Tpl",
-					"Z:\\tag3-2-0\\talk\\www\\",
-					"Z:\\eeeet.com\\",
+					"\\\\192.168.1.232\\html\\53cloud",
+					"\\\\192.168.1.232\\html\\53cloud\\www\\Application",
 					"C:\\文件夹同步",
 					"\\\\192.168.1.249\\www\\t2\\ThinkPHP",
 					"Z:\\thinkphp_3.2.3_full",
@@ -2533,134 +1632,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"CrazyMilk",
-					"年",
-					",",
-					"+",
-					"###",
-					"05",
-					" ",
-					"# ",
-					"false",
-					"jiathis",
-					"ccc",
-					"TemplateEngine",
-					",newLink = null",
-					"double_rows_switch",
-					"\"ctrl+shift+f\"",
-					"aInterfaceType",
-					"aInterfaceTypePr",
-					"\"Cmd\"",
-					"\"Chat\"",
-					"Chat",
-					"global_worker_close_offline_talks_automatic_switch",
-					"访客对话",
-					"global_service_right_top_double_rows_switch",
-					"<label ",
-					"<<<",
-					".",
-					"php",
-					"        modified:   ",
-					"saveGlobalCompanyConfig\nconfigValue",
-					"saveGlobalCompanyConfig",
-					"msg-list",
-					"Message",
-					"addNewMessage",
-					"20160321161540",
-					"curChatId",
-					"unread",
-					"talk_close",
-					"curChatId",
-					"getCurChat",
-					"getChatByGuestId",
-					"guestChatMap",
-					"removeChatView",
-					"closeChat",
-					"global_service_right_top_double_rows_switch",
-					"configID",
-					"getGlobalCompanyConfigByConfigId",
-					"global_worker_no_response_auto_transfer_switch",
-					"<<",
-					"git update-index --assume-unchanged",
-					"page.html",
-					"interface",
-					"interfaceE",
-					"getinterface",
-					"isFunction",
-					"getArgs",
-					"\"configSI\"",
-					"\"Cmd\"",
-					"Cmd",
-					"'Cmd'",
-					"Cmd",
-					"LNK",
-					"trk",
-					"OpenChat.getParams",
-					"getParams",
-					"OpenChat",
-					"click",
-					"setHtmlTabsContainer",
-					"loopTabs",
-					"guestInterface",
-					"interfaceID",
-					".length",
-					"ajaxInterface",
-					"switchTabsTimeout",
-					".length",
-					"delete ajaxQueue",
-					"double_rows",
-					".length",
-					"toggle-guest-info",
-					"right-top",
-					"guestInterface",
-					"setWorkerStat",
-					"timeInterval = 5*1000,",
-					"sameAjaxMax",
-					"timeout",
-					"right-top",
-					"接口请求",
-					"getCurChat",
-					"old",
-					"toggleChat(",
-					"toggleChat",
-					"curOn.",
-					"curOn",
-					"addNewChat",
-					"LOK‘",
-					"workspaceGuestRight",
-					"toggleChat",
-					"workspace-guest-right",
-					"double_rows",
-					"}\n",
-					"setHtml",
-					"积分",
-					"\n                                                    array(\n                                                            'vip'=>'会员6',\n                                                            'name'=>'姓名6',\n                                                            'phone'=>'手机号码6',\n                                                            'jf'=>'积分6',\n                                                        ),",
-					"5',",
-					"\n                                                    array(\n                                                            'vip'=>'会员5',\n                                                            'name'=>'姓名5',\n                                                            'phone'=>'手机号码5',\n                                                            'jf'=>'积分5',\n                                                        ),",
-					"1'",
-					"2'",
-					"1',",
-					"1'",
-					"json_data",
+					"check_repeat",
+					"size",
+					"gold_discount",
+					"discount",
+					"sell_status",
+					"price",
+					"product_id",
+					"pro_func_management",
+					"menu_product_management",
+					"pay_data",
+					"workerId",
+					"coupons",
+					"计算成功",
+					"array_merge",
+					"F_log",
+					"ProductMoney",
+					"product_data",
+					"productData",
+					"user_id",
+					"type",
+					"worker",
+					"pay_data",
 					"data",
-					"接口返回结果类型错误",
-					"请求",
-					"return",
-					"return;",
-					"loopTabs",
-					"chat-list",
-					"lastOnIntroLabel",
-					"'LOK'",
-					"guestInterface",
-					"toggleChat",
-					"guestInfo.",
-					"ajaxInterface",
-					"toggle-chat-history",
-					"punc",
-					"click(",
-					"togglechat",
-					"request",
-					"eval("
+					"memberGrade",
+					"comId",
+					"ComId",
+					"Com",
+					"com_id",
+					"is_performance",
+					"bill",
+					"order_id",
+					"$userAndAccountData['company_account']",
+					"comId",
+					"com_id",
+					"master_account",
+					"master",
+					"companyAndAccountData",
+					"db_third_part_order",
+					"com_id",
+					"companyAndAccountData",
+					"userAndAccountData",
+					"floatcmp",
+					"floatgtr",
+					"floatcmp",
+					"floatgtre",
+					"floatgtr",
+					"floatgtre",
+					"floatcmp",
+					"floatgtr",
+					"\"",
+					"couponIds",
+					"temp_money",
+					"dataUserAccount",
+					"user_id",
+					"User",
+					"user",
+					"User",
+					"user",
+					"User",
+					"user_id",
+					"userAndAccountData",
+					"UserId",
+					"userId",
+					"user_id",
+					"userCombine",
+					"userId",
+					"warn",
+					"is_auth",
+					"is_auth、",
+					"is_auth",
+					"check_balance_new",
+					"is_auth",
+					"audit_status_combine",
+					"auth",
+					"app_data",
+					"calcAppMoneyRet",
+					"AppAnd",
+					"detailBillArr",
+					"getAppMinMoney",
+					"F_",
+					"Coupons",
+					"coupons",
+					"Coupons",
+					"coupons",
+					"Coupons",
+					"coupons",
+					"Coupons",
+					"calcMoney",
+					"DailyUsedMoney",
+					"Product",
+					"calcProductMoney",
+					"calcAppExpTimeRet",
+					"cache",
+					"encrypt",
+					"couponDiscount",
+					"cloud_company_id",
+					"company_id",
+					"COMPANY_ID_NOT_EXIST",
+					"coupon_balance",
+					"check_balance_new",
+					"	",
+					"PRODUCT_KEY",
+					"PRODUCT_KEY_ERROR",
+					"英文名已存",
+					"英文名",
+					"param",
+					"产品键值为空",
+					"OR",
+					"getDates",
+					"Admin",
+					"DecodeData",
+					"pass_log",
+					"Hook::listen",
+					"checkToken",
+					"CheckToken",
+					"checkToken",
+					"tokenCheck",
+					"token_check",
+					"'check_token'",
+					"dist",
+					"yx_from",
+					"yx_form",
+					"real_proxy",
+					"set_redis_company_info",
+					"get_up_dir2",
+					"give_inner_user",
+					"insert_account_order_info",
+					"get_ip"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -2668,31 +1767,12 @@
 				"regex": false,
 				"replace_history":
 				[
-					"%20",
-					"git update-index --no-assume-unchanged",
-					"interfaceId",
-					"doubleRows",
-					"jsonData",
-					"role=",
-					"interface",
-					"Interface",
-					"接口",
-					"interface",
-					"Interface",
-					"interface",
-					"Interface",
-					"interface_",
-					"接口",
-					"$interface",
-					"D('Interface')",
-					"接口",
-					"D('Interface')",
-					"html",
-					"",
-					"127.0.0.1",
-					"249",
-					"53kf",
-					"fk",
+					"F_floatcmp",
+					"F_floatgtr",
+					"F_floatcmp",
+					"F_floatgtr",
+					"comId",
+					"  ",
 					"",
 					"用户",
 					"等级",
@@ -2755,7 +1835,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 30.0
+				"height": 29.0
 			},
 			"input":
 			{
@@ -2793,11 +1873,11 @@
 				"height": 142.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,669,0,78,1024",
-			"project": "local-blog.sublime-project",
+			"position": "0,2,3,-32000,-32000,-1,-1,830,-1459,206,-787",
+			"project": "",
 			"replace":
 			{
-				"height": 56.0
+				"height": 54.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -2807,452 +1887,60 @@
 				"selected_items":
 				[
 					[
-						"dist",
-						"code\\Public\\Js\\workspace\\dist.js"
+						"pro_func",
+						"www\\Cloud_Manage\\module\\controller\\pro_func_managementController.php"
 					],
 					[
-						"interfacm",
-						"code\\Application\\Common\\Model\\InterfaceModel.class.php"
+						"cloud_interface_freeze",
+						"server\\task\\module\\model\\cloud_interface_freeze_recordModel.php"
 					],
 					[
-						"talk_gc_",
-						"document\\talk_gc_2016_modify.sql"
+						"func",
+						"www\\Application\\Common\\Common\\function.php"
 					],
 					[
-						"interfacemc",
-						"code\\Application\\Home\\Controller\\InterfaceManageController.class.php"
+						"common/function",
+						"www\\Application\\Common\\Common\\function.php"
 					],
 					[
-						"view/inter/index",
-						"code\\Application\\Home\\View\\InterfaceManage\\index.html"
+						"function",
+						"ThinkPHP\\Common\\functions.php"
 					],
 					[
-						"interface/index",
-						"code\\Application\\Home\\View\\UserInterfaceConfig\\index.html"
+						"modul.cla",
+						"www\\include\\module.class.php"
 					],
 					[
-						"intefaclog",
-						"code\\Application\\Common\\Logic\\InterfaceLogic.class.php"
+						"commc",
+						"www\\Application\\Ifs\\Common\\CommonController.class.php"
 					],
 					[
-						"interfac",
-						"code\\Application\\Common\\Model\\InterfaceModel.class.php"
+						"conv",
+						"ThinkPHP\\Conf\\convention.php"
 					],
 					[
-						"othersetting/index",
-						"code\\Application\\Home\\View\\OtherSetting\\index.html"
+						"module.cla",
+						"www\\include\\module.class.php"
 					],
 					[
-						"dist.js",
-						"code\\Public\\Js\\workspace\\dist.js"
+						"indexcon",
+						"www\\module\\controller\\indexController.php"
 					],
 					[
-						"companyconfm",
-						"code\\Application\\Common\\Model\\CompanyConfigModel.class.php"
+						"ifs.",
+						"www\\ifs.php"
 					],
 					[
-						"othersetting",
-						"code\\Application\\Common\\Logic\\OtherSettingLogic.class.php"
+						"indexc",
+						"www\\module\\controller\\indexController.php"
 					],
 					[
-						"othterscont",
-						"code\\Application\\Home\\Controller\\OtherSettingController.class.php"
+						"regcon",
+						"www\\module\\controller\\regController.php"
 					],
 					[
-						"wors/indexcon",
-						"code\\Application\\Workspace\\Controller\\IndexController.class.php"
-					],
-					[
-						"work/indexc",
-						"code\\Application\\Workspace\\Controller\\IndexController.class.php"
-					],
-					[
-						"jsc",
-						"code\\Application\\Common\\Conf\\JsAndCssVersion_config.php"
-					],
-					[
-						"other",
-						"code\\Application\\Home\\Controller\\OtherSettingController.class.php"
-					],
-					[
-						"companyconfigmo",
-						"code\\Application\\Common\\Model\\CompanyConfigModel.class.php"
-					],
-					[
-						"compnaymod",
-						"code\\Application\\Common\\Model\\CompanyModel.class.php"
-					],
-					[
-						"workspace/index",
-						"code\\Application\\Workspace\\Controller\\IndexController.class.php"
-					],
-					[
-						"view/others",
-						"code\\Application\\Home\\View\\OtherSetting\\index.html"
-					],
-					[
-						"css/index",
-						"code\\Public\\Css\\index.css"
-					],
-					[
-						"public/css/work",
-						"code\\Public\\Css\\workspace.css"
-					],
-					[
-						"chat/indec",
-						"code\\Application\\Chat\\Controller\\IndexController.class.php"
-					],
-					[
-						"chat/ind",
-						"code\\Application\\Chat\\Controller\\IndexController.class.php"
-					],
-					[
-						"jsandcss",
-						"code\\Application\\Common\\Conf\\JsAndCssVersion_config.php"
-					],
-					[
-						"kf.js",
-						"code\\Public\\Js\\chat\\kf.js"
-					],
-					[
-						"wor",
-						"code\\Public\\Css\\workspace.css"
-					],
-					[
-						"work/view/g",
-						"code\\Application\\Workspace\\View\\Index\\guest-chat.html"
-					],
-					[
-						"interf",
-						"code\\Application\\Common\\Logic\\InterfaceLogic.class.php"
-					],
-					[
-						"work/indcon",
-						"code\\Application\\Workspace\\Controller\\IndexController.class.php"
-					],
-					[
-						"interfamc",
-						"code\\Application\\Home\\Controller\\InterfaceManageController.class.php"
-					],
-					[
-						"home/view/interface",
-						"code\\Application\\Home\\View\\InterfaceManage\\addInterface.html"
-					],
-					[
-						"work/indexcon",
-						"code\\Application\\Workspace\\Controller\\IndexController.class.php"
-					],
-					[
-						"interfa",
-						"code\\Application\\Common\\Logic\\InterfaceLogic.class.php"
-					],
-					[
-						"workspc/idnex",
-						"code\\Application\\Workspace\\Controller\\IndexController.class.php"
-					],
-					[
-						"interfamo",
-						"code\\Application\\Common\\Model\\InterfaceModel.class.php"
-					],
-					[
-						"interlogic",
-						"code\\Application\\Common\\Logic\\InterfaceLogic.class.php"
-					],
-					[
-						"interfacont",
-						"code\\Application\\Home\\Controller\\InterfaceManageController.class.php"
-					],
-					[
-						"dis",
-						"code\\Public\\Js\\workspace\\dist.js"
-					],
-					[
-						"worksp/inde",
-						"code\\Application\\Workspace\\Controller\\IndexController.class.php"
-					],
-					[
-						"loglogin/ind",
-						"code\\Application\\Home\\View\\LogLogin\\index.html"
-					],
-					[
-						"worksp/indecon",
-						"code\\Application\\Workspace\\Controller\\IndexController.class.php"
-					],
-					[
-						"worspac/indecon",
-						"code\\Application\\Workspace\\Controller\\IndexController.class.php"
-					],
-					[
-						"workspace/indcontr",
-						"code\\Application\\Workspace\\Controller\\IndexController.class.php"
-					],
-					[
-						"thinkphp/comifs",
-						"code\\ThinkPHP\\Library\\Org\\Chat\\ComIFS.class.php"
-					],
-					[
-						"interfacelog",
-						"code\\Application\\Common\\Logic\\InterfaceLogic.class.php"
-					],
-					[
-						"work/indec",
-						"code\\Application\\Workspace\\Controller\\IndexController.class.php"
-					],
-					[
-						"css/work",
-						"code\\Public\\Css\\workspace.css"
-					],
-					[
-						"css/worksp",
-						"code\\Public\\Css\\workspace.css"
-					],
-					[
-						"org/chatboo",
-						"code\\ThinkPHP\\Library\\Org\\Chat\\BootPage.class.php"
-					],
-					[
-						"workspace/indexcontr",
-						"code\\Application\\Workspace\\Controller\\IndexController.class.php"
-					],
-					[
-						"workspace/vie/gu",
-						"code\\Application\\Workspace\\View\\Index\\guest-chat.html"
-					],
-					[
-						"commonconfig.php",
-						"code\\Application\\Common\\Conf\\config.php"
-					],
-					[
-						"config.php",
-						"code\\Application\\Api\\Conf\\config.php"
-					],
-					[
-						"jscss",
-						"code\\Application\\Common\\Conf\\JsAndCssVersion_config.php"
-					],
-					[
-						"guesta1",
-						"code\\Public\\Js\\workspace\\src\\GuestChatModule\\guestA1InfoHelper.js"
-					],
-					[
-						"public/js/workspace/",
-						"code\\Public\\Js\\workspace\\dist.js"
-					],
-					[
-						"interface",
-						"code\\Application\\Common\\Model\\InterfaceModel.class.php"
-					],
-					[
-						"common.html",
-						"code\\Application\\Home\\View\\Common\\common.html"
-					],
-					[
-						"companyconfigm",
-						"code\\Application\\Common\\Model\\CompanyConfigModel.class.php"
-					],
-					[
-						"companyconfig",
-						"code\\Application\\Common\\Logic\\CompanyConfigLogic.class.php"
-					],
-					[
-						"others",
-						"code\\Application\\Home\\Controller\\OtherSettingController.class.php"
-					],
-					[
-						"commonstatement/",
-						"code\\Application\\Home\\View\\CommonStatement\\editState.html"
-					],
-					[
-						"commonstatement",
-						"code\\Application\\Home\\Controller\\CommonStatementController.class.php"
-					],
-					[
-						"common/config",
-						"code\\Application\\Common\\Conf\\config.php"
-					],
-					[
-						"conf/confi",
-						"code\\Application\\Api\\Conf\\config.php"
-					],
-					[
-						"config",
-						"code\\explorer\\config\\config.php"
-					],
-					[
-						"index.c",
-						"code\\Public\\Css\\index.css"
-					],
-					[
-						"rolem",
-						"code\\Application\\Common\\Model\\RoleModel.class.php"
-					],
-					[
-						"rolel",
-						"code\\Application\\Common\\Logic\\RoleLogic.class.php"
-					],
-					[
-						"companyinfo",
-						"code\\Application\\Home\\Controller\\CompanyInfoController.class.php"
-					],
-					[
-						"userprofile",
-						"code\\Application\\Home\\Controller\\UserProfileController.class.php"
-					],
-					[
-						"rolemanagec",
-						"code\\Application\\Home\\Controller\\RoleManageController.class.php"
-					],
-					[
-						"home/commoncontroller",
-						"code\\Application\\Home\\Controller\\CommonController.class.php"
-					],
-					[
-						"commoncontro",
-						"code\\Application\\Chat\\Controller\\CommonController.class.php"
-					],
-					[
-						"",
-						"code\\Application\\Home\\Controller\\ModuleManageController.class.php"
-					],
-					[
-						"modulema",
-						"code\\Application\\Home\\Controller\\ModuleManageController.class.php"
-					],
-					[
-						"rolemodulem",
-						"code\\Application\\Common\\Model\\RoleModuleModel.class.php"
-					],
-					[
-						"workerm",
-						"code\\Application\\Common\\Model\\WorkerModel.class.php"
-					],
-					[
-						"workerl",
-						"code\\Application\\Common\\Logic\\WorkerLogic.class.php"
-					],
-					[
-						"workerinter",
-						"code\\Application\\Home\\Controller\\WorkerInterfaceController.class.php"
-					],
-					[
-						"loginc",
-						"code\\Application\\Home\\Controller\\LoginController.class.php"
-					],
-					[
-						"companyinindex",
-						"code\\Application\\Home\\View\\CompanyInfo\\index.html"
-					],
-					[
-						"companyin",
-						"code\\Application\\Home\\Controller\\CompanyInfoController.class.php"
-					],
-					[
-						"work/index.html",
-						"code\\Application\\Workspace\\View\\Index\\index.html"
-					],
-					[
-						"workspaceindex",
-						"code\\Application\\Workspace\\View\\Index\\index.html"
-					],
-					[
-						"rolemanage",
-						"code\\Application\\Home\\Controller\\RoleManageController.class.php"
-					],
-					[
-						"page_trace.tpl",
-						"code\\ThinkPHP\\Tpl\\page_trace.tpl"
-					],
-					[
-						"658818a55a15983083e9739cea19f607",
-						"code\\Application\\Runtime\\Cache\\Workspace\\658818a55a15983083e9739cea19f607.php"
-					],
-					[
-						"page.html",
-						"code\\Application\\Chat\\View\\Index\\page.html"
-					],
-					[
-						"code/application/workspace/controller/indexcontroller.class.php",
-						"code\\Application\\Workspace\\Controller\\IndexController.class.php"
-					],
-					[
-						"redis",
-						"code\\ThinkPHP\\Library\\Think\\Cache\\Driver\\Redis.class.php"
-					],
-					[
-						"chat",
-						"code\\Public\\Js\\chat\\src\\chat.js"
-					],
-					[
-						"define.js",
-						"code\\Public\\Js\\workspace\\src\\define.js"
-					],
-					[
-						"commo",
-						"code\\Application\\Home\\View\\Common\\common.html"
-					],
-					[
-						"page.h",
-						"code\\Application\\Chat\\View\\Index\\page.html"
-					],
-					[
-						"chat.js",
-						"code\\Public\\Js\\chat\\chat.js"
-					],
-					[
-						"frontendconfig",
-						"code\\Application\\Common\\Logic\\FrontendConfigLogic.class.php"
-					],
-					[
-						"page.htm",
-						"code\\Application\\Chat\\View\\Index\\page.html"
-					],
-					[
-						"functions.php",
-						"code\\ThinkPHP\\Common\\functions.php"
-					],
-					[
-						"file.class",
-						"code\\ThinkPHP\\Library\\Think\\Log\\Driver\\File.class.php"
-					],
-					[
-						"log.class.php",
-						"code\\ThinkPHP\\Library\\Think\\Log.class.php"
-					],
-					[
-						"log.c",
-						"code\\ThinkPHP\\Library\\Think\\Log.class.php"
-					],
-					[
-						"file.class.php",
-						"code\\ThinkPHP\\Library\\Think\\Cache\\Driver\\File.class.php"
-					],
-					[
-						"compan",
-						"code\\Application\\Common\\Logic\\CompanyLogic.class.php"
-					],
-					[
-						"inviteboxstyle",
-						"code\\Application\\Home\\View\\UserInterfaceConfig\\inviteBoxStyle.html"
-					],
-					[
-						"userinterfaceconfig",
-						"code\\Application\\Home\\Controller\\UserInterfaceConfigController.class.php"
-					],
-					[
-						"workspace/index.h",
-						"code\\Application\\Workspace\\View\\Index\\index.html"
-					],
-					[
-						"openchat",
-						"greate-chat\\code\\Public\\Js\\chat\\src\\module\\frontend\\openchat.js"
-					],
-					[
-						"code/public/js/chat/kf.js",
-						"greate-chat\\code\\Public\\Js\\chat\\kf.js"
-					],
-					[
-						"conifmd",
-						"fksc\\config.md"
+						"index",
+						"www\\index.php"
 					],
 					[
 						"/inde",
@@ -3261,10 +1949,6 @@
 					[
 						"fund",
 						"www\\Cloud_Manage\\module\\controller\\fund_rechargeController.php"
-					],
-					[
-						"func",
-						"www\\include\\function.php"
 					],
 					[
 						"function.",
@@ -3317,6 +2001,70 @@
 					[
 						"function.php",
 						"www\\include\\function.php"
+					],
+					[
+						"server/task/module/cloud_interf",
+						"server\\task\\module\\model\\cloud_interface_freeze_recordModel.php"
+					],
+					[
+						"/css/css",
+						"tpl\\kf\\Public\\css\\css.css"
+					],
+					[
+						"/indexc",
+						"application\\Portal\\Controller\\IndexController.class.php"
+					],
+					[
+						"tpl/",
+						"tpl\\kf\\Portal\\index.html"
+					],
+					[
+						"helpcon",
+						"application\\Portal\\Controller\\HelpController.class.php"
+					],
+					[
+						"tpl/kf/",
+						"tpl\\kf\\Portal\\gonggao.html"
+					],
+					[
+						"help.",
+						"tpl\\kf\\Portal\\help.html"
+					],
+					[
+						"/hep",
+						"tpl\\kf\\Portal\\help.html"
+					],
+					[
+						"/kf/pub/na",
+						"kf\\tpl\\kf\\Public\\nav.html"
+					],
+					[
+						"zf/controllein",
+						"wzyyj_com\\zf\\runtime\\controls\\zf_index_php\\caselibaction.class.php"
+					],
+					[
+						"category_bangong",
+						"wzyyj_com\\caches\\caches_template\\default\\content\\category_bangongshi.php"
+					],
+					[
+						"thinkphp/function",
+						"classify\\Core\\ThinkPHP\\Common\\functions.php"
+					],
+					[
+						"admin/confiaction",
+						"classify\\Core\\Lib\\Action\\Admin\\ConfigAction.class.php"
+					],
+					[
+						"www/module/controller/regcontroller.php",
+						"www\\module\\controller\\regController.php"
+					],
+					[
+						"",
+						"config.yaml"
+					],
+					[
+						"index3",
+						"wzyyj_com\\phpcms\\templates\\default\\special\\index3.html"
 					]
 				],
 				"width": 0.0
@@ -3329,7 +2077,7 @@
 				[
 					[
 						"",
-						"E:\\workdata\\feike.sublime-workspace"
+						"E:\\workdata\\local-53kf.sublime-project"
 					]
 				],
 				"width": 380.0
@@ -3351,27 +2099,23 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 245.0,
+			"side_bar_width": 305.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 21,
-			"workspace_name": "/E/workdata/local-blog.sublime-workspace"
+			"window_id": 48,
+			"workspace_name": ""
 		}
 	],
 	"workspaces":
 	{
 		"recent_workspaces":
 		[
-			"/E/workdata/local-blog.sublime-workspace",
-			"/E/workdata/feike.sublime-workspace",
-			"/E/workdata/greate-chat.sublime-workspace",
-			"/E/workdata/tiandao.sublime-workspace",
 			"/E/workdata/232-cloud.sublime-workspace",
-			"/E/workdata/232-bu.sublime-workspace",
-			"/E/personaldata/pansync-115.sublime-workspace",
-			"/E/personaldata/pansync-360.sublime-workspace"
+			"/E/workdata/local-53kf.sublime-workspace",
+			"/E/workdata/local-blog.sublime-workspace",
+			"/E/workdata/237-pass.sublime-workspace"
 		]
 	}
 }

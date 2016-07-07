@@ -14,6 +14,7 @@
 		"DocBlockr",
 		"Emmet",
 		"Emmet Css Snippets",
+		"Expand Tabs on Save",
 		"FileDiffs",
 		"GitGutter",
 		"HTML-CSS-JS Prettify",
@@ -25,6 +26,8 @@
 		"Predawn Monokai",
 		"SideBarEnhancements",
 		"Terminal",
+		"Theme - Flatland",
+		"Theme - Nexus",
 		"Theme - Spacegray"
 	]
 }
